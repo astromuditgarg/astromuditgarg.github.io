@@ -1,7 +1,7 @@
 ---
-layout: archive
+permalink: /
 title: "Publications"
-permalink: /publications/
+excerpt: "pubs"
 author_profile: true
 redirect_from: 
   - /publications/
