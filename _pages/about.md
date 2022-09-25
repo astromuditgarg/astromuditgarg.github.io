@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-I am a second year PhD student under the supervision of Prof. Dr. Lucio Mayer at the University of Zurich. I am interested in Gravitational Waves Astrophysics.
+I am a second year PhD student under the supervision of Prof. Lucio Mayer at the University of Zurich. I am interested in Gravitational Waves Astrophysics.
