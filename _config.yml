@@ -83,11 +83,11 @@ author:
   name             : "Mudit"
   avatar           : "profile1.png"
   bio              : "PhD in Gravitational Waves Astrophysics at the University of Zurich"
-  location         : "Zurich"
-  employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  location         : "Zurich, Switzerland"
+  employer         : "https://www.ics.uzh.ch/en/"
+  pubmed           : 
+  googlescholar    : 
+  email            : "mudit.garg@ics.uzh.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
