@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mudit Garg's personal website"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
