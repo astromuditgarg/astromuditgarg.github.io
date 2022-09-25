@@ -26,13 +26,13 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><a href="{{ author.employer }}"><i class="fas fa-fw fa-briefcase" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Institute for Computational Science, UZH" }}</a></li>
+        <li><a href="{{ author.employer }}"><i class="fas fa-fw fa-briefcase" aria-hidden="true"></i> Institute for Computational Science, UZH </a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "mudit.garg@ics.uzh.ch" }}</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> mudit.garg@ics.uzh.ch</a></li>
       {% endif %}
       {% if author.ads %}
         <li><a href="{{ author.ads }}"><i class="fab fa-solid fa-star" aria-hidden="true"></i> NASA/ADS</a></li>
