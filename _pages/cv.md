@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="MuditGarg_CV.pdf">CV (pdf)</a>
+
 Education
 ======
 * Ph.D. in Gravitational Waves Astrophysics, University of Zurich, 2018-Present
