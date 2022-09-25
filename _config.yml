@@ -83,12 +83,9 @@ author:
   name             : "Mudit"
   avatar           : "profile1.png"
   bio              : "PhD in Gravitational Waves Astrophysics at the University of Zurich"
-  location         : "Zurich, Switzerland"
   employer         : "https://www.ics.uzh.ch/en/"
-  pubmed           : 
-  googlescholar    : 
   email            : "mudit.garg@ics.uzh.ch"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  NASA ADS         :  "https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-9032-9103&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,25 +94,8 @@ author:
   facebook         :
   foursquare       :
   github           : 
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+  orcid            : "https://orcid.org/0000-0002-9032-9103"
 
 # Reading Files
 include:
