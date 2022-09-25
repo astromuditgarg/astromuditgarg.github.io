@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 <a href="MuditGarg_CV.pdf">CV (pdf)</a>
 
 Education
