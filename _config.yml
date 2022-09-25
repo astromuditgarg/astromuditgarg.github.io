@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mudit Garg Website"
+title                    : "Mudit Garg's Website"
 title_separator          : "-"
 name                     : &name "Mudit Garg"
 description              : &description "personal description"
