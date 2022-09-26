@@ -7,7 +7,7 @@ redirect_from:
   - /CV
 ---
 
-<a href="http://muditgarg96.github.io/CV/MuditGarg_CV.pdf">CV (pdf)</a>
+<a href="http://muditgarg96.github.io/_CV/MuditGarg_CV.pdf">CV (pdf)</a>
 
 Education
 ======
