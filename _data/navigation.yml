@@ -1,16 +1,11 @@
 # main links links
 main:
-  - title: "Trial"
-    url: /Trial/
   
   - title: "Research"
     url: /research/
 
   - title: "Publications"
-    url: /publications/    
-    
-#   - title: "CV"
-#     url: /cv/
+    url: /publications/   
     
   - title: "About me"
     url: /aboutme/
