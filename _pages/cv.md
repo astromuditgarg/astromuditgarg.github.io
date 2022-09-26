@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="MuditGarg_CV.pdf">CV (pdf)</a>
+<a href="http://muditgarg96.github.io/CV/MuditGarg_CV.pdf">CV (pdf)</a>
 
 Education
 ======
