@@ -7,4 +7,6 @@ redirect_from:
   - /aboutme
 ---
 
-I hail from India.
+I am born and brought from India. In my free time, I like to play badminton, board games, and video games. I also love to do cooking and try various cuisins. During the summer, I enjoy various hikes around Switzerland and during winter, I do sledding.
+
+\[under construction]
