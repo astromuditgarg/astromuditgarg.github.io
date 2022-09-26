@@ -15,7 +15,7 @@ Education
 * M.Sc. in Physics <b> with distinction </b>, ETH Zurich, 2018-2020
 * B.Tech. in Engineering Physics, IIT Delhi, 2014-2018
 
-Publications
+Talks
 ======
 
-Four
+
