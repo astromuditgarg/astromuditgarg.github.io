@@ -16,11 +16,11 @@ redirect_from:
 2022, Monthly Notices of the Royal Astronomical Society, 511, 6143 <a href = "https://ui.adsabs.harvard.edu/abs/2022arXiv220605292G/abstract" > [ADS] </a>
 
 * "Non-linear extension of non-metricity scalar for MOND"<br>
-<i>Fabio D'Ambrosio, <b> Mudit Garg </b>, Lavinia Heisenberg<sup>&#9830;</sup><br></i>
+<i>Fabio D'Ambrosio, <b> Mudit Garg </b>, Lavinia Heisenberg<sup>&#9733;</sup><br></i>
 2020, Physics Letters B, 811, 135970 <a href = "https://ui.adsabs.harvard.edu/abs/2022arXiv220605292G/abstract" > [ADS] </a>
 
 * "ADM formulation and Hamiltonian analysis of Coincident General Relativity"<br>
-<i>Fabio D'Ambrosio, <b> Mudit Garg </b>, Lavinia Heisenberg, Stefan Zentarra<sup>&#9830;</sup><br></i>
+<i>Fabio D'Ambrosio, <b> Mudit Garg </b>, Lavinia Heisenberg, Stefan Zentarra<sup>&#9733;</sup><br></i>
 2020, arXiv <a href = "https://ui.adsabs.harvard.edu/abs/2022arXiv220605292G/abstract" > [ADS] </a>
 
-<small>&#9830; Alphabetical order</small>
+<small>&#9733; Alphabetical order</small>
