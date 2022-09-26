@@ -7,4 +7,4 @@ redirect_from:
   - /aboutme
 ---
 
-Under construction
+I am born and brought up in India.
