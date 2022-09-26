@@ -7,4 +7,5 @@ redirect_from:
   - /publications
 ---
 
-Four
+* The imprint of gas on gravitational waves from LISA intermediate-mass black hole binaries
+  * Yes 
