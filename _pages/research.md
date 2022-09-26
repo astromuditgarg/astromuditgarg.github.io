@@ -12,5 +12,5 @@ I am mainly interesting in using detection of Gravitational Waves to learn somet
 * Evolution of LISA detectable intermediate mass black hole binaries in a thin gas disc<br>
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper2.png" title="Paper2" width="600">
 
-* Signature of the fluctuating torque due to gas on the GW waveform<br>
+* Signature of the fluctuating torque due to gas on the GW waveform of supermassive black hole binary merger <br>
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper1.png" title="Paper1" width="750">
