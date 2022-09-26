@@ -13,4 +13,4 @@ In my ongoing PhD, I am mainly interesting in using detection of Gravitational W
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper2.png" title="Paper2" width="750">
 
 * Signature of fluctuating torque due to gas on the GW waveform
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper1_1.png" title="Paper1_1" width="400"><br><img class="img-responsive" src="https://muditgarg96.github.io/images/Paper1_2.png" title="Paper1_2" width="400"><br>
+<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper1_1.png" title="Paper1_1" width="325"><br><img class="img-responsive" src="https://muditgarg96.github.io/images/Paper1_2.png" title="Paper1_2" width="325"><br>
