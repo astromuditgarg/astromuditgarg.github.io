@@ -7,4 +7,4 @@ redirect_from:
   - /aboutme
 ---
 
-I am born and brought up in India.
+I hail from India.
