@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /CV
 ---
 
 <a href="http://muditgarg96.github.io/CV/MuditGarg_CV.pdf">CV (pdf)</a>
