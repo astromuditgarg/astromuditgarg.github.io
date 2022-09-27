@@ -16,7 +16,7 @@ I am a second year PhD student under the supervision of <a href = "https://www.i
  <footer class="page-footer transparent">
           <div class="footer-copyright transparent">
             <div class="container">
-            <p class="black-text">&copy; 2022 Henrik Knierim</p>
+            <p class="black-text">&copy; 2022 Mudit Garg</p>
             </div>
           </div>
  </footer>
