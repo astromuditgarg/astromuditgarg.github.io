@@ -10,3 +10,11 @@ redirect_from:
 I am born and brought up in India. In my free time, I like to play badminton, pool, board games, and video games. I also like to do cooking and try various cuisines. During the summer, I enjoy various hikes around Switzerland and during winter, I do sledding.
 
 \[under construction]
+
+ <footer class="page-footer transparent">
+          <div class="footer-copyright transparent">
+            <div class="container">
+            <p class="black-text">&copy; 2022 Mudit Garg</p>
+            </div>
+          </div>
+ </footer>
