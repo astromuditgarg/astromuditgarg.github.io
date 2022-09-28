@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/GW_dephased.png" title="GWD" width="1000" height="200"">
+<img class="img-responsive" src="https://muditgarg96.github.io/images/GW_dephased.png" title="GWD" width="1000" height="200">
 
 Welcome to my personal website :)
 
