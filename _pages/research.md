@@ -7,9 +7,7 @@ redirect_from:
   - /research
 ---
 
-<i>In the past, we could only see the Universe (using photons), but now we can also hear it (via gravitational waves).</i>-Anonymous
-
-
+<i>In the past, we could only see the Universe (via photons), but now we can also hear it (via gravitational waves).</i>-Anonymous
 
 <i>Detecting gravitational waves is similar to measuring the distance to the nearest star with an accuracy of the width of a human hair.</i>-Anonymous
 
