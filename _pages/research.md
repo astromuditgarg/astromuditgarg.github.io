@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /research
 ---
+<img class="img-responsive" src="https://muditgarg96.github.io/images/GW_dephased.png" title="GWD" width="1000" height="350">
 
 <i>In the past, we could only see the Universe (via photons), but now we can also hear it (via gravitational waves).</i>-Anonymous
 
