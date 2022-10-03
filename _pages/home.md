@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Profile1.png" title="Donostia-San Sebastian" width="1000" height="350">
+<img class="img-responsive" src="https://muditgarg96.github.io/images/Profile1.jpeg" title="Donostia-San Sebastian" width="1000" height="350">
 
 Welcome to my personal website :)
 
