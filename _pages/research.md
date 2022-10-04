@@ -10,7 +10,7 @@ redirect_from:
 
 <i>In the past, we could only see the Universe, but now we can also hear it.</i>-Anonymous
 
-This quote beautifully illustrates that till the first direct observation of gravitational waves (GWs) by the ground based detector <a href="https://www.ligo.org/">LIGO</a> in 2015, we only relied on electromagentic signals (mainly via photons) to study the Universe. Now, we have this amazing tool to probe the Universe and unlock its mystries. Because observed GWs have a characteristic <a href="https://www.youtube.com/watch?v=TWqhUANNFXw"> frequency chirp</a>, in a way, we can listen to the Universe.
+This quote beautifully illustrates that till the first direct observation of gravitational waves (GWs) by the ground-based detector <a href="https://www.ligo.org/">LIGO</a> in 2015, we only relied on electromagnetic signals (mainly via photons) to study the Universe. Now, we have this amazing tool to probe the Universe and unlock its mysteries. Because observed GWs have a characteristic <a href="https://www.youtube.com/watch?v=TWqhUANNFXw"> frequency chirp</a>, in a way, we can listen to the Universe.
 
 <i>Detecting gravitational waves is similar to measuring the distance to the nearest star with an accuracy of the width of a human hair.</i>-Anonymous
 
