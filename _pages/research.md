@@ -8,13 +8,17 @@ redirect_from:
 ---
 <img class="img-responsive" src="https://muditgarg96.github.io/images/GW_dephased.png" title="GWD" width="900" height="300">
 
+<div align="justify"> 
+
 <i>In the past, we could only see the Universe, but now we can also hear it.</i>-Anonymous
 
-<p align="justify">This quote beautifully illustrates that till the first direct observation of gravitational waves (GWs) by the ground-based detector <a href="https://www.ligo.org/">LIGO</a> in 2015, we only relied on electromagnetic signals (mainly via photons) to study the Universe. Now, we have this amazing tool to probe the Universe and unlock its mysteries, and because observed GWs have a characteristic <a href="https://www.youtube.com/watch?v=TWqhUANNFXw"> frequency chirp</a>, in a way, we can listen to the Universe.</p>
+This quote beautifully illustrates that till the first direct observation of gravitational waves (GWs) by the ground-based detector <a href="https://www.ligo.org/">LIGO</a> in 2015, we only relied on electromagnetic signals (mainly via photons) to study the Universe. Now, we have this amazing tool to probe the Universe and unlock its mysteries, and because observed GWs have a characteristic <a href="https://www.youtube.com/watch?v=TWqhUANNFXw"> frequency chirp</a>, in a way, we can listen to the Universe.
 
 <i>Detecting gravitational waves is similar to measuring the distance to the nearest star with an accuracy of the width of a human hair.</i>-Anonymous
 
-<p align="justify">The above quote truly captures the challenge of directly observing gravitational waves (GWs), even though the observable GWs emerge from highly energetic astrophysical events, mainly merger between compact objects : black hole (BH), neutron star (NS), and white dwarfs (WD). Also, depending primaritly on the total mass and distance of the source, they show up at different observed frequency range at earth.</p>
+The above quote truly captures the challenge of directly observing gravitational waves (GWs), even though the observable GWs emerge from highly energetic astrophysical events, mainly merger between compact objects : black hole (BH), neutron star (NS), and white dwarfs (WD). Also, depending primaritly on the total mass and distance of the source, they show up at different observed frequency range at earth.
+  
+</div>
 
 <p align="justify">I am mainly interesting in using detection of Gravitational Waves to learn something about their astrophysical environment. I mainly focus on GW waveform from the merger of massive black hole binaries embedded in an accretion disc. My recent project are:</p>
 
