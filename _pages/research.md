@@ -14,9 +14,9 @@ redirect_from:
 
 <i>Detecting gravitational waves is similar to measuring the distance to the nearest star with an accuracy of the width of a human hair.</i>-Anonymous
 
-The above quote truly captures the challenge of directly observing gravitational waves (GWs), even though the observable GWs emerge from highly energetic astrophysical events, mainly merger between compact objects : black hole (BH), neutron star (NS), and white dwarfs (WD). Also, depending primaritly on the total mass and distance of the source, they show up at different observed frequency range at earth.
+<p align="justify">The above quote truly captures the challenge of directly observing gravitational waves (GWs), even though the observable GWs emerge from highly energetic astrophysical events, mainly merger between compact objects : black hole (BH), neutron star (NS), and white dwarfs (WD). Also, depending primaritly on the total mass and distance of the source, they show up at different observed frequency range at earth.</p>
 
-I am mainly interesting in using detection of Gravitational Waves to learn something about their astrophysical environment. I mainly focus on GW waveform from the merger of massive black hole binaries embedded in an accretion disc. My recent project are:
+<p align="justify">I am mainly interesting in using detection of Gravitational Waves to learn something about their astrophysical environment. I mainly focus on GW waveform from the merger of massive black hole binaries embedded in an accretion disc. My recent project are:</p>
 
 * Evolution of LISA detectable intermediate mass black hole binaries in a thin gas disc<br>
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper2.png" title="Paper2" width="600">
