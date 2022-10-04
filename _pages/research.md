@@ -6,6 +6,10 @@ author_profile: true
 redirect_from:
   - /research
 ---
+.customIndent {
+  margin-left: -30px;
+}
+
 <img class="img-responsive" src="https://muditgarg96.github.io/images/GW_dephased.png" title="GWD" width="900" height="300">
 
 <div align="justify"> 
