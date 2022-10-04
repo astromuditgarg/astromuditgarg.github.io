@@ -8,9 +8,9 @@ redirect_from:
 ---
 <img class="img-responsive" src="https://muditgarg96.github.io/images/GW_dephased.png" title="GWD" width="900" height="300">
 
-<i>In the past, we could only see the Universe (via photons), but now we can also hear it (via gravitational waves).</i>-Anonymous
+<i>In the past, we could only see the Universe, but now we can also hear it.</i>-Anonymous
 
-This quote alludes to the fact that the most observable gravitational waves (GWs) have a <a href="https://www.youtube.com/watch?v=TWqhUANNFXw"> frequency chirp</a>.
+This quote beautifully illustrate that till the first direct observation of gravitational waves (GWs) by the ground based detector <a href="https://www.ligo.org/">LIGO</a> in 2015, we only relied on electromagentic observations to study the Universe. Now, we have this amazing tool to probe the Universe and unlock its mystries. The allusion of GWs to hearing due to that the most observable gravitational waves (GWs) have a charcterstic <a href="https://www.youtube.com/watch?v=TWqhUANNFXw"> frequency chirp</a>.
 
 <i>Detecting gravitational waves is similar to measuring the distance to the nearest star with an accuracy of the width of a human hair.</i>-Anonymous
 
