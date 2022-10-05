@@ -7,7 +7,7 @@ redirect_from:
   - /research
 ---
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/GW_dephased.png" title="GWD" width="900" height="300"
+<img class="img-responsive" src="https://muditgarg96.github.io/images/GW_dephased.png" title="GWD" width="900" height="300">
 
 <i>In the past, we could only see the Universe, but now we can also hear it.</i>-Anonymous
 
