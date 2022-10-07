@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /CV
 ---
-
-<a href="https://muditgarg96.github.io/files/MuditGarg_CV.pdf">CV (pdf)</a>
 
 Education
 ======
@@ -15,7 +13,15 @@ Education
 * M.Sc. in Physics <b> with distinction </b>, ETH Zurich, 2018-2020
 * B.Tech. in Engineering Physics, IIT Delhi, 2014-2018
 
-Talks
+Teaching Assistance
 ======
+* Proseminar in Astrophysics in Fall 2022
+* Universe: Contents, Origin, Evolution and Future in Spring 2022
+* Theoretical Astrophysics in Fall 2021
 
+PhD Schools
+======
+* <b>Pauli Center's Workshop</b> on From Scattering Amplitudes to Gravitational-Wave Predictions for Compact Binarie, 2022
+* <b>Saas-Fee School</b> on Compact-Object Astrophysics in the Era of Multi-Messenger Astronomy, 2022
+* <b>NBIA School</b> on Gravitational Wave Astrophysic, 2021
 
