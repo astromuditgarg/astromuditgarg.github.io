@@ -15,9 +15,9 @@ Education
 
 Teaching Assistance
 ======
-* Proseminar in Astrophysics in Fall 2022
-* Universe: Contents, Origin, Evolution and Future in Spring 2022
-* Theoretical Astrophysics in Fall 2021
+* Proseminar in Astrophysics, Fall 2022
+* Universe: Contents, Origin, Evolution and Future, Spring 2022
+* Theoretical Astrophysics, Fall 2021
 
 PhD Schools
 ======
