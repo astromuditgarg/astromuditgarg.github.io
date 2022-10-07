@@ -1,12 +1,13 @@
 ---
 layout: archive
+title: "Brief CV"
 permalink: /CV/
 author_profile: true
 redirect_from:
   - /CV
 ---
 
-<b>Education</b>
+<big>Education</big>
 * Ph.D. in Gravitational Waves Astrophysics, University of Zurich, 2018-Present
 * M.Sc. in Physics <b> with distinction </b>, ETH Zurich, 2018-2020
 * B.Tech. in Engineering Physics, IIT Delhi, 2014-2018
