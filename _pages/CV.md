@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ul {
-  padding-left: 0;
+  padding-left: 10;
 }
 
 <h2>Education</h2>
