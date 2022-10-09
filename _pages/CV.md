@@ -15,13 +15,11 @@ redirect_from:
 </ul>
 
 <h2>Teaching Assistance</h2>
-======
 * Proseminar in Astrophysics, Fall 2022
 * Universe: Contents, Origin, Evolution and Future, Spring 2022
 * Theoretical Astrophysics, Fall 2021
 
 <h2>Schools/Workshops</h2>
-======
 * From Scattering Amplitudes to Gravitational-Wave Predictions for Compact Binaries<br>
 Pauli Center, Zurich, 2022
 * <b>Saas-Fee School</b> on Compact-Object Astrophysics in the Era of Multi-Messenger Astronomy, 2022
