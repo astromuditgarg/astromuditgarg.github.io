@@ -22,7 +22,11 @@ redirect_from:
 </ul>
 
 <h2>Schools/Workshops</h2>
-* From Scattering Amplitudes to Gravitational-Wave Predictions for Compact Binaries<br>
-Pauli Center, Zurich, 2022
-* <b>Saas-Fee School</b> on Compact-Object Astrophysics in the Era of Multi-Messenger Astronomy, 2022
-* <b>NBIA School</b> on Gravitational Wave Astrophysic, 2021
+<ul style="list-style-type:none">
+<li> From Scattering Amplitudes to Gravitational-Wave Predictions for Compact Binaries<br>
+  Pauli Center, Zurich, 2022</li>
+<li> Compact-Object Astrophysics in the Era of Multi-Messenger Astronomy<br>
+  Swiss Society for Astrophysics and Astronomy, Saas-Fee, 2022</li>
+<li> Gravitational Wave Astrophysic<br>
+  NBIA School, Copenhagen, 2021</li>
+</ul>
