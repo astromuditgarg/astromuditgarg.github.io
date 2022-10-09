@@ -32,6 +32,6 @@ redirect_from:
   </li>
 <li> Compact-Object Astrophysics in the Era of Multi-Messenger Astronomy<br>
   Swiss Society for Astrophysics and Astronomy, Saas-Fee, 2022</li>
-<li> Gravitational Wave Astrophysic<br>
+<li> Gravitational Wave Astrophysics<br>
   NBIA School, Copenhagen, 2021</li>
 </ul>
