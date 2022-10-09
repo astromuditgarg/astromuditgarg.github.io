@@ -15,9 +15,11 @@ redirect_from:
 </ul>
 
 <h2>Teaching Assistance</h2>
-* Proseminar in Astrophysics, Fall 2022
-* Universe: Contents, Origin, Evolution and Future, Spring 2022
-* Theoretical Astrophysics, Fall 2021
+<ul style="list-style-type:none">
+<li> Proseminar in Astrophysics, Fall 2022</li>
+<li> Universe: Contents, Origin, Evolution and Future, Spring 2022</li>
+<li> Theoretical Astrophysics, Fall 2021</li>
+</ul>
 
 <h2>Schools/Workshops</h2>
 * From Scattering Amplitudes to Gravitational-Wave Predictions for Compact Binaries<br>
