@@ -26,6 +26,6 @@ Schools/Workshops
   <span class="left">Pauli Center, Zurich</span>
   <span class="right">2022</span>
   <span class="center">&nbsp;</span>
-</div><li>Pauli Center, Zurich</li> <li>2022</li> 
+</div>
 * <b>Saas-Fee School</b> on Compact-Object Astrophysics in the Era of Multi-Messenger Astronomy, 2022
 * <b>NBIA School</b> on Gravitational Wave Astrophysic, 2021
