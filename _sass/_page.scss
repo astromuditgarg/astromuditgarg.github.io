@@ -73,10 +73,11 @@ text-justify: inter-word;
     }
   }
    
-  ul, li {
-    margin-left: 0 px;
-    padding: 0 px;
-  }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
   
    .center {
     display: block;
