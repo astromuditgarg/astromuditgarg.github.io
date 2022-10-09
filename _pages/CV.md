@@ -22,7 +22,7 @@ Teaching Assistance
 Schools/Workshops
 ======
 * From Scattering Amplitudes to Gravitational-Wave Predictions for Compact Binaries<br>
-<span>Pauli Center, Zurich</span> <span>2022</span> 
+<li>Pauli Center, Zurich</li> <li>2022</li> 
 * <b>Saas-Fee School</b> on Compact-Object Astrophysics in the Era of Multi-Messenger Astronomy, 2022
 * <b>NBIA School</b> on Gravitational Wave Astrophysic, 2021
 
