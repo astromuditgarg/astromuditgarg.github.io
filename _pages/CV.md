@@ -26,3 +26,8 @@ Schools/Workshops
 * <b>Saas-Fee School</b> on Compact-Object Astrophysics in the Era of Multi-Messenger Astronomy, 2022
 * <b>NBIA School</b> on Gravitational Wave Astrophysic, 2021
 
+<ul>
+    <li>a</li>
+    <li>b</li>
+    <li>c</li>
+</ul>
