@@ -24,7 +24,12 @@ redirect_from:
 <h2>Schools/Workshops</h2>
 <ul style="list-style-type:none">
 <li> From Scattering Amplitudes to Gravitational-Wave Predictions for Compact Binaries<br>
-     Pauli Center, Zurich &nbsp;&nbsp;&nbsp;&nbsp;2022</li>
+     <div class="container">
+  <span class="left">Pauli Center, Zurich</span>
+  <span class="right">2022</span>
+  <span class="center">&nbsp;</span>
+</div> 
+  </li>
 <li> Compact-Object Astrophysics in the Era of Multi-Messenger Astronomy<br>
   Swiss Society for Astrophysics and Astronomy, Saas-Fee, 2022</li>
 <li> Gravitational Wave Astrophysic<br>
