@@ -72,36 +72,6 @@ text-justify: inter-word;
       }
     }
   }
-   
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-  
-   .center {
-    display: block;
-    border-bottom: 1px dotted blue;
-    overflow: auto;
-    position: relative;
-    top: -4px;
-}
-
-.right {
-    float: right;
-    margin-left: 10px;
-}
-
-.left {
-    float: left;
-    margin-right: 10px;
-}
-
-.container {
-    width: 200px;
-    border: 1px dotted red;
-    padding: 5px;
-}
 
   a {
     text-decoration: underline;
