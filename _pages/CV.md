@@ -7,10 +7,6 @@ redirect_from:
   - /CV
 ---
 
-ul {
-  padding-left: 100;
-}
-
 <h2>Education</h2>
 <ul>
 <li> Ph.D. in Gravitational Waves Astrophysics, University of Zurich, 2018-Present</li>
