@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <h2>Education</h2>
-<ul style="list-style-type:none">
+<ul>
 <li> PhD in Gravitational Waves Astrophysics, University of Zurich, 2018-Present</li>
 <li> MSc in Physics with distinction, ETH Zurich, 2018-2020</li>
 <li> BTech in Engineering Physics, IIT Delhi, 2014-2018</li>
