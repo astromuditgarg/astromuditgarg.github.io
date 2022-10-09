@@ -23,26 +23,20 @@ ul {
   
    .center {
     display: block;
-    border-bottom: 1px dotted blue;
-    overflow: auto;
-    position: relative;
-    top: -4px;
 }
 
 .right {
     float: right;
-    margin-left: 10px;
+    margin-left: 0 px;
 }
 
 .left {
     float: left;
-    margin-right: 10px;
+    margin-right: 0 px;
 }
 
 .container {
-    width: 200px;
-    border: 1px dotted red;
-    padding: 5px;
+    width: 750px;
 }
 
 thead {
