@@ -19,9 +19,10 @@ Teaching Assistance
 * Universe: Contents, Origin, Evolution and Future, Spring 2022
 * Theoretical Astrophysics, Fall 2021
 
-PhD Schools
+Schools/Workshops
 ======
-* <b>Pauli Center's Workshop</b> on From Scattering Amplitudes to Gravitational-Wave Predictions for Compact Binarie, 2022
+* From Scattering Amplitudes to Gravitational-Wave Predictions for Compact Binaries<br>
+Pauli Center, Zurich, 2022
 * <b>Saas-Fee School</b> on Compact-Object Astrophysics in the Era of Multi-Messenger Astronomy, 2022
 * <b>NBIA School</b> on Gravitational Wave Astrophysic, 2021
 
