@@ -59,11 +59,6 @@ text-justify: inter-word;
   p, li, dl {
     font-size: 1em;
   }
-   
-  
-  ul {
-    padding-left: 10em;
-  }
 
   /* paragraph indents */
   p {
@@ -76,6 +71,11 @@ text-justify: inter-word;
         margin-top: -($indent-var);
       }
     }
+  }
+   
+  
+  ul {
+    padding-left: 0;
   }
 
   a {
