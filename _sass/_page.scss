@@ -75,7 +75,32 @@ text-justify: inter-word;
    
   ul, li {
     margin-left: 0 px;
+    padding: 0 px;
   }
+  
+   .center {
+    display: block;
+    border-bottom: 1px dotted blue;
+    overflow: auto;
+    position: relative;
+    top: -4px;
+}
+
+.right {
+    float: right;
+    margin-left: 10px;
+}
+
+.left {
+    float: left;
+    margin-right: 10px;
+}
+
+.container {
+    width: 200px;
+    border: 1px dotted red;
+    padding: 5px;
+}
 
   a {
     text-decoration: underline;
