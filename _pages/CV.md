@@ -9,7 +9,7 @@ redirect_from:
 
 <h2>Education</h2>
 <ul>
-<li> <div class="container"> <span class="left">PhD in Gravitational Waves Astrophysics</span> <span class="right">2018-Present</span> <span class="center">&nbsp;</span> </div><br>University of Zurich</li>
+<li> <div class="container"> <span class="left">PhD in Gravitational Waves Astrophysics</span> <span class="right">2018-Present</span> <span class="center">&nbsp;</span> </div>University of Zurich</li>
 <li> MSc in Physics with distinction, ETH Zurich, 2018-2020</li>
 <li> BTech in Engineering Physics, IIT Delhi, 2014-2018</li>
 </ul>
