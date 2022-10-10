@@ -15,10 +15,10 @@ redirect_from:
 </ul>
 
 <h2>Teaching Assistance</h2>
-<ul style="list-style-type:none">
-<li> Proseminar in Astrophysics, Fall 2022</li>
-<li> Universe: Contents, Origin, Evolution and Future, Spring 2022</li>
-<li> Theoretical Astrophysics, Fall 2021</li>
+<ul>
+<li> <div class="container"> <span class="left">Proseminar in Astrophysics</span> <span class="right">Fall 2022</span> <span class="center">&nbsp;</span> </div></li>
+<li> <div class="container"> <span class="left">Universe: Contents, Origin, Evolution and Future</span> <span class="right">Spring 2022</span> <span class="center">&nbsp;</span> </div></li>
+<li> <div class="container"> <span class="left">Theoretical Astrophysics</span> <span class="right">Fall 2021</span> <span class="center">&nbsp;</span> </div></li>
 </ul>
 
 <h2>Schools/Workshops</h2>
