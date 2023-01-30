@@ -13,7 +13,7 @@ redirect_from:
 
 * "Dirty waveforms: multiband harmonic content of gas-embedded gravitational wave sources"<br>
 <i>Lorenz Zwick, Andrea Derdzinski, <b> Mudit Garg </b>, Pedro R. Capelo, Lucio Mayer<br></i>
-2022, Monthly Notices of the Royal Astronomical Society, 511, 6143 <a href = "https://ui.adsabs.harvard.edu/abs/2022arXiv220605292G/abstract" > [ADS] </a>
+2022, Monthly Notices of the Royal Astronomical Society, 511, 6143 <a href = "https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.6143Z/abstract" > [ADS] </a>
 
 * "Non-linear extension of non-metricity scalar for MOND"<br>
 <i>Fabio D'Ambrosio, <b> Mudit Garg </b>, Lavinia Heisenberg<sup>&dagger;</sup><br></i>
