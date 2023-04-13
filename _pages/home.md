@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Profile1.jpg" title="Donostia-San Sebastian" width="750">
+<img class="img-responsive" src="https://muditgarg96.github.io/images/Profile2.jpg" title="Antalya" width="750">
 
 Welcome to my personal website :)
 
