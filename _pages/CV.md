@@ -14,14 +14,6 @@ redirect_from:
 <li> <div class="container"> <span class="left">BTech in Engineering Physics</span> <span class="right">2014-2018</span> <span class="center">&nbsp;</span> </div>IIT Delhi</li> 
 </ul>
 
-<h2>Teaching Assistance</h2>
-<ul>
-<li> <div class="container"> <span class="left">Introduction to Astronomy</span> <span class="right">Spring 2023</span> <span class="center">&nbsp;</span> </div></li>
-<li> <div class="container"> <span class="left">Proseminar in Astrophysics</span> <span class="right">Fall 2022</span> <span class="center">&nbsp;</span> </div></li>
-<li> <div class="container"> <span class="left">Universe: Contents, Origin, Evolution and Future</span> <span class="right">Spring 2022</span> <span class="center">&nbsp;</span> </div></li>
-<li> <div class="container"> <span class="left">Theoretical Astrophysics</span> <span class="right">Fall 2021</span> <span class="center">&nbsp;</span> </div></li>
-</ul>
-
 <h2>Conference/Talks</h2>
 <ul>
 <li> <div class="container"> <span class="left">LISA data analysis: from classical methods to machine learning</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Toulouse, France</li>
@@ -31,7 +23,16 @@ redirect_from:
 
 <h2>Schools/Workshops</h2>
 <ul>
+<li> <div class="container"> <span class="left">LISA data analysis: from classical methods to machine learning</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Toulouse, France</li>
 <li> <div class="container"> <span class="left">From Scattering Amplitudes to Gravitational-Wave Predictions for Compact Binaries</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Zurich, Switzerland</li>
 <li> <div class="container"> <span class="left">Compact-Object Astrophysics in the Era of Multi-Messenger Astronomy</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Saas-Fee, Switzerland</li> 
 <li> <div class="container"> <span class="left">Gravitational Wave Astrophysics</span> <span class="right">2021</span> <span class="center">&nbsp;</span> </div>Copenhagen, Denamark</li> 
+</ul>
+
+<h2>Teaching Assistance</h2>
+<ul>
+<li> <div class="container"> <span class="left">Introduction to Astronomy</span> <span class="right">Spring 2023</span> <span class="center">&nbsp;</span> </div></li>
+<li> <div class="container"> <span class="left">Proseminar in Astrophysics</span> <span class="right">Fall 2022</span> <span class="center">&nbsp;</span> </div></li>
+<li> <div class="container"> <span class="left">Universe: Contents, Origin, Evolution and Future</span> <span class="right">Spring 2022</span> <span class="center">&nbsp;</span> </div></li>
+<li> <div class="container"> <span class="left">Theoretical Astrophysics</span> <span class="right">Fall 2021</span> <span class="center">&nbsp;</span> </div></li>
 </ul>
