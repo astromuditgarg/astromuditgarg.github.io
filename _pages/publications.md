@@ -7,6 +7,10 @@ redirect_from:
   - /publications
 ---
 
+* "The minimum measurable eccentricity from gravitational waves of LISA massive black hole binaries"<br>
+<i><b> Mudit Garg </b>, Shubhanshu Tiwari, Andrea Derdzinski, John Baker, Sylvain Marsat, Lucio Mayer<br></i>
+2023, Submitted to MNRAS, arXiv <a href = "https://ui.adsabs.harvard.edu/abs/2022arXiv220605292G/abstract" > [ADS] </a>
+
 * "The imprint of gas on gravitational waves from LISA intermediate-mass black hole binaries"<br>
 <i><b> Mudit Garg </b>, Andrea Derdzinski, Lorenz Zwick, Pedro R. Capelo, Lucio Mayer<br></i>
 2022, Monthly Notices of the Royal Astronomical Society, 517, 1339 <a href = "https://ui.adsabs.harvard.edu/abs/2022arXiv220605292G/abstract" > [ADS] </a>
