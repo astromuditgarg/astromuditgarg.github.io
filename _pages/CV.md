@@ -17,6 +17,7 @@ redirect_from:
 <h2>Conference/Talks</h2>
 <ul>
 <li> <div class="container"> <span class="left">Gravitational-wave populations: what’s next?</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Milan, Italy</li>
+<li> <div class="container"> <span class="left">LISA data challenge working group call</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Online</li>
 <li> <div class="container"> <span class="left">LISA data analysis: from classical methods to machine learning</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Toulouse, France</li>
 <li> <div class="container"> <span class="left">Origin, growth and feedback of black holes in dwarf galaxies</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>San Sebastian, Spain</li> 
 <li> <div class="container"> <span class="left">Intermediate-Mass Black Holes: New Science from Stellar Evolution to Cosmology</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>San Juan, Puerto Rico</li> 
