@@ -15,12 +15,15 @@ redirect_from:
 
 <i>Detecting gravitational waves is similar to measuring the distance to the nearest star with an accuracy of the width of a human hair.</i>-Anonymous
 
-<p align="justify">The above quote truly captures the challenge of directly observing gravitational waves (GWs), even though the observable GWs emerge from highly energetic astrophysical events, mainly merger between compact objects : black hole (BH), neutron star (NS), and white dwarfs (WD). Also, depending primaritly on the total mass and distance of the source, they show up at different observed frequency range at earth.</p>
+<p align="justify">The above quote truly captures the challenge of directly observing gravitational waves (GWs), even though the observable GWs emerge from highly energetic astrophysical events, mainly mergers between compact objects: black hole (BH), neutron star (NS), and white dwarf (WD). Also, depending primarily on the total mass and distance of the source, they show up at different observed frequency at Earth.</p>
 
-<p align="justify">I am mainly interesting in using detection of Gravitational Waves to learn something about their astrophysical environment. I mainly focus on GW waveform from the merger of massive black hole binaries embedded in an accretion disc. My recent project are:</p>
+<p align="justify">I am mainly interested in using the detection of Gravitational Waves to learn something about their astrophysical environment. I mostly focus on GW waveform from merging massive black hole binaries (MBHBs) embedded in a gaseous accretion disc. My recent projects are:</p>
 
-* Evolution of LISA detectable intermediate mass black hole binaries in a thin gas disc<br>
+* What is the minimum eccentricity LISA can measure well from GWs of MBHBs<br>
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper2.png" title="Paper2" width="600">
 
-* Signature of the fluctuating torque due to gas on the GW waveform of supermassive black hole binary merger <br>
+* Evolution of LISA-detectable intermediate-mass BHBs in a thin gas disc<br>
+<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper2.png" title="Paper2" width="600">
+
+* Signature of the fluctuating torque due to gas on the GW waveform of supermassive BHB merger <br>
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper1.png" title="Paper1" width="750">
