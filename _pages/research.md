@@ -20,7 +20,7 @@ redirect_from:
 <p align="justify">I am mainly interested in using the detection of Gravitational Waves to learn something about their astrophysical environment. I mostly focus on GW waveform from merging massive black hole binaries (MBHBs) embedded in a gaseous accretion disc. My recent projects are:</p>
 
 * What is the minimum eccentricity LISA can measure well from GWs of MBHBs<br>
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper2.png" title="Paper2" width="600">
+<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper3.png" title="Paper3" width="600">
 
 * Evolution of LISA-detectable intermediate-mass BHBs in a thin gas disc<br>
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper2.png" title="Paper2" width="600">
