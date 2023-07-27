@@ -19,11 +19,11 @@ redirect_from:
 
 <p align="justify">I am mainly interested in using the detection of Gravitational Waves to learn something about their astrophysical environment. I mostly focus on GW waveform from merging massive black hole binaries (MBHBs) embedded in a gaseous accretion disc. My recent projects are:</p>
 
-* How well LISA can measure eccentricity from GWs of MBHBs<br>
+* How well LISA can measure eccentricity from GWs of MBHBs using realistic data analysis techniques<br>
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper3.png" title="Paper3" width="600">
 
-* Evolution of LISA-detectable intermediate-mass BHBs in a thin gas disc<br>
+* Evolution of LISA-detectable intermediate-mass BHBs in a realistic thin gas disc<br>
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper2.png" title="Paper2" width="600">
 
-* Signature of the fluctuating torque due to gas on the GW waveform of supermassive BHB merger <br>
+* How fluctuating gas torque can make heavier supermassive BHB mergers show up in the LISA band <br>
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper1.png" title="Paper1" width="750">
