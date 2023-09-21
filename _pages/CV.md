@@ -16,6 +16,7 @@ redirect_from:
 
 <h2>Conference/Talks</h2>
 <ul>
+<li> <div class="container"> <span class="left">LISA AstroWG meeting</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Milan, Italy</li>
 <li> <div class="container"> <span class="left">Gravitational-wave populations: what’s next?</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Milan, Italy</li>
 <li> <div class="container"> <span class="left">LISA data challenge working group call</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Online</li>
 <li> <div class="container"> <span class="left">LISA data analysis: from classical methods to machine learning</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Toulouse, France</li>
@@ -25,6 +26,7 @@ redirect_from:
 
 <h2>Schools/Workshops</h2>
 <ul>
+<li> <div class="container"> <span class="left">Gravitational Waves</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Corfu, Greece</li>
 <li> <div class="container"> <span class="left">LISA data analysis: from classical methods to machine learning</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Toulouse, France</li>
 <li> <div class="container"> <span class="left">From Scattering Amplitudes to Gravitational-Wave Predictions for Compact Binaries</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Zurich, Switzerland</li>
 <li> <div class="container"> <span class="left">Compact-Object Astrophysics in the Era of Multi-Messenger Astronomy</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Saas-Fee, Switzerland</li> 
@@ -33,6 +35,7 @@ redirect_from:
 
 <h2>Teaching Assistance</h2>
 <ul>
+<li> <div class="container"> <span class="left">Introduction to Astrophysics</span> <span class="right">Fall 2023</span> <span class="center">&nbsp;</span> </div></li>
 <li> <div class="container"> <span class="left">Introduction to Astronomy</span> <span class="right">Spring 2023</span> <span class="center">&nbsp;</span> </div></li>
 <li> <div class="container"> <span class="left">Proseminar in Astrophysics</span> <span class="right">Fall 2022</span> <span class="center">&nbsp;</span> </div></li>
 <li> <div class="container"> <span class="left">Universe: Contents, Origin, Evolution and Future</span> <span class="right">Spring 2022</span> <span class="center">&nbsp;</span> </div></li>
