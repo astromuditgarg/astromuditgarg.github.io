@@ -26,7 +26,7 @@ redirect_from:
 
 <h2>Schools/Workshops</h2>
 <ul>
-<li> <div class="container"> <span class="left">Gravitational Waves</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Corfu, Greece</li>
+<li> <div class="container"> <span class="left">Gravitational Waves</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Corfu, Greece</li>
 <li> <div class="container"> <span class="left">LISA data analysis: from classical methods to machine learning</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Toulouse, France</li>
 <li> <div class="container"> <span class="left">From Scattering Amplitudes to Gravitational-Wave Predictions for Compact Binaries</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Zurich, Switzerland</li>
 <li> <div class="container"> <span class="left">Compact-Object Astrophysics in the Era of Multi-Messenger Astronomy</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Saas-Fee, Switzerland</li> 
