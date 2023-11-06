@@ -2,13 +2,13 @@
 main:
   
   - title: "Research"
-    url: /research/_blank
+    url: /research/
 
   - title: "Publications"
-    url: /publications/_blank
+    url: /publications/
 
   - title: "Brief CV"
-    url: /CV/_blank
+    url: /CV/
     
   - title: "About me"
-    url: /aboutme/_blank
+    url: /aboutme/
