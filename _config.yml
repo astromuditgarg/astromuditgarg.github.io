@@ -83,10 +83,10 @@ author:
   name             : "Mudit Garg"
   avatar           : "profile1.png"
   bio              : "PhD student in Gravitational Waves Astrophysics"
-  employer         : "https://www.ics.uzh.ch/en/"
+  employer         : "https://www.ics.uzh.ch/en/  target="_blank""
   email            : "mudit.garg@ics.uzh.ch"
-  ads              : "https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-9032-9103&sort=date%20desc%2C%20bibcode%20desc&p_=0"
-  cv               : "https://muditgarg96.github.io/files/MuditGarg_CV.pdf"
+  ads              : "https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-9032-9103&sort=date%20desc%2C%20bibcode%20desc&p_=0  target="_blank""
+  cv               : "https://muditgarg96.github.io/files/MuditGarg_CV.pdf  target="_blank""
   github           : 
   linkedin         :
   orcid            : 
