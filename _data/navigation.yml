@@ -1,14 +1,14 @@
 # main links links
 main:
   
-  - title: "Research"
+  - title: "Research  target="_blank""
     url: /research/
 
-  - title: "Publications"
+  - title: "Publications  target="_blank""
     url: /publications/
 
-  - title: "Brief CV"
+  - title: "Brief CV  target="_blank""
     url: /CV/
     
-  - title: "About me"
+  - title: "About me  target="_blank""
     url: /aboutme/
