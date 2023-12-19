@@ -26,6 +26,12 @@ redirect_from:
 <li> <div class="container"> <span class="left">Intermediate-Mass Black Holes: New Science from Stellar Evolution to Cosmology</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>San Juan, Puerto Rico</li> 
 </ul>
 
+<h2>Research visits</h2>
+<ul>
+<li> <div class="container"> <span class="left">Institute of Gravitational Wave Astronomy</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Birmingham, UK</li>
+<li> <div class="container"> <span class="left">Max Planck institute for Gravitational Physics (Albert Einstein Institute)</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Potsdam, Germany</li>
+</ul>
+
 <h2>Schools/Workshops</h2>
 <ul>
 <li> <div class="container"> <span class="left">Gravitational Waves</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Corfu, Greece</li>
