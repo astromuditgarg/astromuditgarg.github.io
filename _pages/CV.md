@@ -29,7 +29,7 @@ redirect_from:
 <h2>Research visits</h2>
 <ul>
 <li> <div class="container"> <span class="left">Institute of Gravitational Wave Astronomy</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Birmingham, UK</li>
-<li> <div class="container"> <span class="left">Max Planck institute for Gravitational Physics (Albert Einstein Institute)</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Potsdam, Germany</li>
+<li> <div class="container"> <span class="left">Max Planck institute for Gravitational Physics (Albert Einstein Institute)</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Potsdam, Germany</li>
 </ul>
 
 <h2>Schools/Workshops</h2>
