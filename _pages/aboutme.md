@@ -7,6 +7,6 @@ redirect_from:
   - /aboutme
 ---
 
-I am born and brought up in India. In my free time, I like to play badminton, pool, board games, and video games. I also like to do cooking and try various vegetarian cuisines. During the summer, I enjoy various hikes around Switzerland and during winter, I do sledding.
+I was born and brought up in India. In my free time, I play badminton, board games, or video games, or go for a swim, run, or work out. I like Cooking and trying various cuisines. I enjoy multiple hikes around Switzerland during summer and sledging and skiing in winter.
 
-\[under construction]
+
