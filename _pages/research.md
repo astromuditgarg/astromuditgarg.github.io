@@ -17,13 +17,20 @@ redirect_from:
 
 <p align="justify">The above quote truly captures the challenge of directly observing gravitational waves (GWs), even though the observable GWs emerge from highly energetic astrophysical events, mainly mergers between compact objects: black hole (BH), neutron star (NS), and white dwarf (WD). Also, depending primarily on the total mass and distance of the source, they show up at different observed frequencies at Earth.</p>
 
-<p align="justify">I am mainly interested in using the detection of Gravitational Waves to learn something about their astrophysical environment. I mostly focus on GW waveform from merging massive black hole binaries (MBHBs) embedded in a gaseous accretion disc. My recent projects are:</p>
+<p align="justify">I am mainly interested in using the detection of Gravitational Waves to learn about the source properties together with their astrophysical environment. I mostly focus on GW waveform from merging massive black hole binaries (MBHBs) embedded in a gaseous accretion disc. My recent projects are:</p>
 
-* How well LISA can measure eccentricity from GWs of MBHBs using realistic data analysis techniques<br>
+* Concurrent measurement of eccentricity and gas perturbation from GWs of MBHBs <br>
+
+<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper3.png" title="Paper3" width="600">
+
+* How well LISA can measure eccentricity from GWs of MBHBs in vacuum using realistic data analysis techniques<br>
+
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper3.png" title="Paper3" width="600">
 
 * Evolution of LISA-detectable intermediate-mass BHBs in a realistic thin gas disc<br>
+
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper2.png" title="Paper2" width="600">
 
 * How fluctuating gas torque can make heavier supermassive BHB mergers show up in the LISA band <br>
+
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper1.png" title="Paper1" width="750">
