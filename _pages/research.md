@@ -21,7 +21,7 @@ redirect_from:
 
 * Concurrent measurement of eccentricity and gas perturbation from GWs of MBHBs <br>
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper4.png" title="Paper3" width="600">
+<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper4.png" title="Paper4" width="600">
 
 * How well LISA can measure eccentricity from GWs of MBHBs in vacuum using realistic data analysis techniques<br>
 
