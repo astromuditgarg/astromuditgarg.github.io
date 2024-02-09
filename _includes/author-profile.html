@@ -26,16 +26,16 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><a href="{{ author.employer }}"><i class="fas fa-fw fa-briefcase" aria-hidden="true"></i> ICS, University of Zurich</a></li>
+        <li><a href="{{ author.employer }}"><i class="fas fa-fw fa-briefcase" aria-hidden="true"></i> DAP, University of Zurich</a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> mudit.garg@ics.uzh.ch</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> mudit.garg@uzh.ch</a></li>
       {% endif %}
       {% if author.ads %}
-        <li><a href="{{ author.ads }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> NASA/ADS</a></li>
+        <li><a href="{{ author.ads }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> ADS</a></li>
       {% endif %}
       {% if author.cv %}
         <li><a href="{{ author.cv }}"><i class="fas fa-fw fa-file" aria-hidden="true"></i> CV (pdf)</a></li>
