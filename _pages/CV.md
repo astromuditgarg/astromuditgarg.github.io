@@ -17,7 +17,6 @@ redirect_from:
 <h2>Conference/Talks</h2>
 <ul>
 <li> <div class="container"> <span class="left">DAMTP GR seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Cambridge, UK</li>
-<li> <div class="container"> <span class="left">Institute of Cosmology and Gravitation</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Portsmouth, UK</li>
 <li> <div class="container"> <span class="left">LISA AstroWG meeting</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Milan, Italy</li>
 <li> <div class="container"> <span class="left">Gravitational-wave populations: what’s next?</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Milan, Italy</li>
 <li> <div class="container"> <span class="left">LISA data challenge working group call</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Online</li>
@@ -29,6 +28,7 @@ redirect_from:
 <h2>Research visits</h2>
 <ul>
 <li> <div class="container"> <span class="left">Institute of Gravitational Wave Astronomy</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Birmingham, UK</li>
+<li> <div class="container"> <span class="left">Institute of Cosmology and Gravitation</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Portsmouth, UK</li>
 <li> <div class="container"> <span class="left">Max Planck institute for Gravitational Physics (Albert Einstein Institute)</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Potsdam, Germany</li>
 </ul>
 
