@@ -9,9 +9,9 @@ redirect_from:
 
 <h2>Education</h2>
 <ul>
-<li> <div class="container"> <span class="left">PhD in Gravitational Waves Astrophysics</span> <span class="right">2018-Present</span> <span class="center">&nbsp;</span> </div>University of Zurich</li>
-<li> <div class="container"> <span class="left">MSc in Physics with distinction</span> <span class="right">2018-2020</span> <span class="center">&nbsp;</span> </div>ETH Zurich</li> 
-<li> <div class="container"> <span class="left">BTech in Engineering Physics</span> <span class="right">2014-2018</span> <span class="center">&nbsp;</span> </div>IIT Delhi</li> 
+<li> <div class="container"> <span class="left">PhD in Gravitational Waves Astrophysics</span> <span class="right">2018-</span> <span class="center">&nbsp;</span> </div>University of Zurich</li>
+<li> <div class="container"> <span class="left">MSc in Physics with distinction</span> <span class="right">2020</span> <span class="center">&nbsp;</span> </div>ETH Zurich</li> 
+<li> <div class="container"> <span class="left">BTech in Engineering Physics</span> <span class="right">2018</span> <span class="center">&nbsp;</span> </div>IIT Delhi</li> 
 </ul>
 
 <h2>Conference/Talks</h2>
