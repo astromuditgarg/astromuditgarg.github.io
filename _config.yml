@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mudit Garg"
-  avatar           : "/images/MuditGarg.jpeg"
+  avatar           : "MuditGarg.jpeg"
   bio              : "PhD student in Gravitational Waves Astrophysics"
   employer         : "https://www.ics.uzh.ch/en/"
   email            : "mudit.garg@ics.uzh.ch"
