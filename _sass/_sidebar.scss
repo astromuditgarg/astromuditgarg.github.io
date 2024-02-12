@@ -90,6 +90,7 @@
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
+      border-radius: 4px;
     }
   }
 }
@@ -110,7 +111,7 @@
 }
 
 .author__name {
-  margin: -10px;
+  margin: -40px;
 
   @include breakpoint($large) {
     margin-top: 10px;
