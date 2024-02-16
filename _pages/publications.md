@@ -21,10 +21,10 @@ redirect_from:
 
 * "Non-linear extension of non-metricity scalar for MOND"<br>
 <i>Fabio D'Ambrosio, <b> Mudit Garg </b>, Lavinia Heisenberg<sup>&dagger;</sup><br></i>
-2020, Physics Letters B, 811, 135970 <a href = "https://ui.adsabs.harvard.edu/abs/2022arXiv220605292G/abstract"  target="_blank"> [ADS] </a>
+2020, Physics Letters B, 811, 135970 <a href = "https://ui.adsabs.harvard.edu/abs/2020PhLB..81135970D/abstract"  target="_blank"> [ADS] </a>
 
 * "ADM formulation and Hamiltonian analysis of Coincident General Relativity"<br>
 <i>Fabio D'Ambrosio, <b> Mudit Garg </b>, Lavinia Heisenberg, Stefan Zentarra<sup>&dagger;</sup><br></i>
-2020, arXiv <a href = "https://ui.adsabs.harvard.edu/abs/2022arXiv220605292G/abstract"  target="_blank"> [ADS] </a>
+2020, arXiv <a href = "https://ui.adsabs.harvard.edu/abs/2020arXiv200703261D/abstract"  target="_blank"> [ADS] </a>
 
 <small>&dagger; Alphabetical order</small>
