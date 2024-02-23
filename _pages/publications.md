@@ -8,7 +8,7 @@ redirect_from:
 ---
 * "Measuring eccentricity and gas-induced perturbation from gravitational waves of LISA massive black hole binaries"<br>
 <i><b> Mudit Garg </b>, Andrea Derdzinski, Shubhanshu Tiwari, Jonathan Gair, Lucio Mayer<br></i>
-Submitted to MNRAS <a href = "https://arxiv.org/abs/2402.14058"  target="_blank"> [ArXiv] </a>
+2024, Submitted to MNRAS <a href = "https://arxiv.org/abs/2402.14058"  target="_blank"> [ArXiv] </a>
 
 * "The minimum measurable eccentricity from gravitational waves of LISA massive black hole binaries"<br>
 <i><b> Mudit Garg </b>, Shubhanshu Tiwari, Andrea Derdzinski, John G. Baker, Sylvain Marsat, Lucio Mayer<br></i>
