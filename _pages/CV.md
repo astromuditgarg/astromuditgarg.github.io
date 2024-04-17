@@ -16,6 +16,7 @@ redirect_from:
 
 <h2>Conference/Talks</h2>
 <ul>
+<li> <div class="container"> <span class="left">MAP Cosmolofy seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Garching, Germany</li>
 <li> <div class="container"> <span class="left">DAMTP GR seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Cambridge, UK</li>
 <li> <div class="container"> <span class="left">LISA AstroWG meeting</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Milan, Italy</li>
 <li> <div class="container"> <span class="left">Gravitational-wave populations: what’s next?</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Milan, Italy</li>
