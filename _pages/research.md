@@ -19,6 +19,10 @@ redirect_from:
 
 <p align="justify">I am mainly interested in using the detection of Gravitational Waves to learn about the source properties together with their astrophysical environment. I mostly focus on GW waveform from merging massive black hole binaries (MBHBs) embedded in a gaseous accretion disc. My recent projects are:</p>
 
+* The spin-eccentricity correlations help in finding the correct formation channel <br>
+
+<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper5.png" title="Paper5" width="600">
+
 * Concurrent measurement of eccentricity and gas perturbation from GWs of MBHBs <br>
 
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper4.png" title="Paper4" width="600">
