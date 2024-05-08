@@ -21,7 +21,7 @@ redirect_from:
 
 * The spin-eccentricity correlations help in finding the correct formation channel <br>
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper5.png" title="Paper5" width="600">
+<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper5.pdf" title="Paper5" width="600">
 
 * Concurrent measurement of eccentricity and gas perturbation from GWs of MBHBs <br>
 
