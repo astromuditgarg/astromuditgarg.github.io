@@ -8,7 +8,7 @@ redirect_from:
 ---
 * "Accretion mediated spin-eccentricity correlations in LISA massive black hole binaries"<br>
 <i><b> Mudit Garg </b>, Christopher Tiede, Daniel J. D'Orazio<br></i>
-2024, Submitted to MNRAS <a href = "https://arxiv.org/abs/2405.04411"  target="_blank"> [arXiv] </a>
+2024, Submitted to MNRAS <a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240504411G/abstract"  target="_blank"> [ADS] </a>
 
 * "Measuring eccentricity and gas-induced perturbation from gravitational waves of LISA massive black hole binaries"<br>
 <i><b> Mudit Garg </b>, Andrea Derdzinski, Shubhanshu Tiwari, Jonathan Gair, Lucio Mayer<br></i>
