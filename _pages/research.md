@@ -13,24 +13,23 @@ redirect_from:
 
 <p align="justify">This quote beautifully illustrates that until the first direct observation of gravitational waves (GWs) by the ground-based detector <a href="https://www.ligo.org/" target="_blank">LIGO</a> in 2015, we only relied on electromagnetic signals (mainly via photons) to study the Universe. Now, we have this amazing tool to probe the Universe and unlock its mysteries, and because observed GWs have a characteristic <a href="https://www.youtube.com/watch?v=TWqhUANNFXw" target="_blank"> frequency chirp</a>, in a way, we can listen to the Universe.</p>
 
-<p align="justify">I am mainly interested in using the detection of GWs to learn about the source properties together with their astrophysical environment. I mostly focus on coalescing massive black hole binaries (MBHBs) embedded in a gaseous accretion disc that may result form galaxy mergers. My recent projects are:</p>
+<p align="justify">I am mainly interested in using the detection of GWs to learn about the source properties together with their astrophysical environment. I mostly focus on coalescing massive black hole binaries (MBHBs) embedded in a gaseous accretion disc that may result form galaxy mergers. To this aim, I use analytical and numerical techniques to perform source as well as waveform modeling. My recent projects are:</p>
 
-* The spin-eccentricity correlations help in finding the correct formation channel <br>
+<ul>
+<li>LISA-observable Spin-eccentricity correlations could differentiate prograde and retrograde accretion<br>
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper5.png" title="Paper5" width="600">
+<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper5.png" title="Paper5" width="600"></li>
 
-* Concurrent measurement of eccentricity and gas perturbation from GWs of MBHBs <br>
+<li> Concurrent measurement of eccentricity and gas perturbation from GWs of MBHBs <br>
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper4.png" title="Paper4" width="600">
+<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper4.png" title="Paper4" width="600"></li>
 
-* How well LISA can measure eccentricity from GWs of MBHBs in vacuum using realistic data analysis techniques<br>
+<li> The minimum measurable eccentricity from GWs of vacuum MBHBs<br>
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper3.png" title="Paper3" width="600">
+<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper3.png" title="Paper3" width="600"></li>
 
-* Evolution of LISA-detectable intermediate-mass BHBs in a realistic thin gas disc<br>
+<li> Evolution of LISA-detectable intermediate-mass BHBs in a realistic thin gas disc<br>
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper2.png" title="Paper2" width="600">
+<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper2.png" title="Paper2" width="600"> </li>
 
-* How fluctuating gas torque can make heavier supermassive BHB mergers show up in the LISA band <br>
-
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper1.png" title="Paper1" width="750">
+</ul>
