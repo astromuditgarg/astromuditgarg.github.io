@@ -26,6 +26,8 @@ redirect_from:
 <i>Lorenz Zwick, Andrea Derdzinski, <b> Mudit Garg </b>, Pedro R. Capelo, Lucio Mayer<br></i>
 2022, MNRAS, 511, 6143 <a href = "https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.6143Z/abstract"  target="_blank"> [ADS] </a>
 
+## Pre-PhD
+
 * "Non-linear extension of non-metricity scalar for MOND"<br>
 <i>Fabio D'Ambrosio, <b> Mudit Garg </b>, Lavinia Heisenberg<sup>&dagger;</sup><br></i>
 2020, Physics Letters B, 811, 135970 <a href = "https://ui.adsabs.harvard.edu/abs/2020PhLB..81135970D/abstract"  target="_blank"> [ADS] </a>
