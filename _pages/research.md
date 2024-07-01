@@ -16,19 +16,19 @@ redirect_from:
 <p align="justify">I am mainly interested in using the detection of GWs to learn about the source properties together with their astrophysical environment. I mostly focus on coalescing massive black hole binaries (MBHBs) embedded in a gaseous accretion disc that may result form galaxy mergers. To this aim, I use analytical and numerical techniques to perform source as well as waveform modeling. My recent projects are:</p>
 
 <ul>
-<li>LISA-observable Spin-eccentricity correlations could differentiate prograde and retrograde accretion<br>
+<li>LISA-observable Spin-eccentricity correlations could differentiate prograde and retrograde accretion <a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240504411G/abstract"  target="_blank"> [ADS] </a><br>
 
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper5.png" title="Paper5" width="600"></li>
 
-<li> Concurrent measurement of eccentricity and gas perturbation from GWs of MBHBs <br>
+<li> Concurrent measurement of eccentricity and gas perturbation from GWs of MBHBs <a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240214058G/abstract"  target="_blank"> [ADS] </a> <br>
 
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper4.png" title="Paper4" width="600"></li>
 
-<li> The minimum measurable eccentricity from GWs of vacuum MBHBs<br>
+<li> The minimum measurable eccentricity from GWs of vacuum MBHBs <a href = "https://ui.adsabs.harvard.edu/abs/2023arXiv230713367G/abstract"  target="_blank"> [ADS] </a><br>
 
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper3.png" title="Paper3" width="600"></li>
 
-<li> Evolution of LISA-detectable intermediate-mass BHBs in a realistic thin gas disc<br>
+<li> Evolution of LISA-detectable intermediate-mass BHBs in a realistic thin gas disc <a href = "https://ui.adsabs.harvard.edu/abs/2022arXiv220605292G/abstract"  target="_blank"> [ADS] </a><br>
 
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper2.png" title="Paper2" width="600"> </li>
 
