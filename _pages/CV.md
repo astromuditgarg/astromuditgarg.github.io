@@ -16,6 +16,8 @@ redirect_from:
 
 <h2>Conference/Talks</h2>
 <ul>
+<li> <div class="container"> <span class="left">LISA symposium poster</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Dublin, Ireland</li>
+<li> <div class="container"> <span class="left">GRAPPA seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Amsterdam, Netherlands</li>
 <li> <div class="container"> <span class="left">LISA community call</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Online</li>
 <li> <div class="container"> <span class="left">MPA Cosmology seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Garching, Germany</li>
 <li> <div class="container"> <span class="left">DAMTP GR seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Cambridge, UK</li>
@@ -36,6 +38,7 @@ redirect_from:
 
 <h2>Schools/Workshops</h2>
 <ul>
+<li> <div class="container"> <span class="left">Fundamental Physics Meets Waveforms With LISA</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Potsdam, Germany</li>
 <li> <div class="container"> <span class="left">Gravitational Waves</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Corfu, Greece</li>
 <li> <div class="container"> <span class="left">LISA data analysis: from classical methods to machine learning</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Toulouse, France</li>
 <li> <div class="container"> <span class="left">From Scattering Amplitudes to Gravitational-Wave Predictions for Compact Binaries</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Zurich, Switzerland</li>
