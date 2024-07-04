@@ -16,12 +16,16 @@ redirect_from:
 
 <h2>Conference/Talks</h2>
 <ul>
-<li> <div class="container"> <span class="left">LISA symposium poster</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Dublin, Ireland</li>
+<li> <div class="container"> <span class="left">Monday Afternoon Talks</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Boston, US</li>
+<li> <div class="container"> <span class="left">the Swiss Physical Society meeting</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Zurich, Switzerland</li>
+<li> <div class="container"> <span class="left">New ideas on the origin of black hole mergers (Invited)</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Copenhagen, Denamrk</li>
+<li> <div class="container"> <span class="left">LISA Symposium Poster</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Dublin, Ireland</li>
 <li> <div class="container"> <span class="left">GRAPPA seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Amsterdam, Netherlands</li>
 <li> <div class="container"> <span class="left">LISA community call</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Online</li>
 <li> <div class="container"> <span class="left">MPA Cosmology seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Garching, Germany</li>
 <li> <div class="container"> <span class="left">DAMTP GR seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Cambridge, UK</li>
 <li> <div class="container"> <span class="left">LISA AstroWG meeting</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Milan, Italy</li>
+<li> <div class="container"> <span class="left">the Swiss-Austrian joint Physical Society meeting</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Basel, Switzerland</li>
 <li> <div class="container"> <span class="left">Gravitational-wave populations: what’s next?</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Milan, Italy</li>
 <li> <div class="container"> <span class="left">LISA data challenge working group call</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Online</li>
 <li> <div class="container"> <span class="left">LISA data analysis: from classical methods to machine learning</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Toulouse, France</li>
