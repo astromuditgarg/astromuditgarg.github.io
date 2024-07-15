@@ -14,7 +14,7 @@ redirect_from:
 <li> <div class="container"> <span class="left">BTech in Engineering Physics</span> <span class="right">2018</span> <span class="center">&nbsp;</span> </div>IIT Delhi</li> 
 </ul>
 
-<h2>d Talks/Presentation</h2>
+<h2>Talks/Presentation</h2>
 <ul>
 <li> <div class="container"> <span class="left">UMD CTC Theory Seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>College Park, US</li>
 <li> <div class="container"> <span class="left">MIT Monday Afternoon Talks</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Boston, US</li>
