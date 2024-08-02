@@ -12,25 +12,25 @@ redirect_from:
 
 * "Measuring eccentricity and gas-induced perturbation from gravitational waves of LISA massive black hole binaries"<br>
 <i><b> Mudit Garg </b>, Andrea Derdzinski, Shubhanshu Tiwari, Jonathan Gair, Lucio Mayer<br></i>
-2024, Accepted by MNRAS <a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240214058G/abstract"  target="_blank"> [ADS] </a>
+2024, MNRAS <a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240214058G/abstract"  target="_blank"> [ADS] </a>
 
 * "The minimum measurable eccentricity from gravitational waves of LISA massive black hole binaries"<br>
 <i><b> Mudit Garg </b>, Shubhanshu Tiwari, Andrea Derdzinski, John G. Baker, Sylvain Marsat, Lucio Mayer<br></i>
-2024, MNRAS, 528, 4176 <a href = "https://ui.adsabs.harvard.edu/abs/2023arXiv230713367G/abstract"  target="_blank"> [ADS] </a>
+2024, MNRAS <a href = "https://ui.adsabs.harvard.edu/abs/2023arXiv230713367G/abstract"  target="_blank"> [ADS] </a>
 
 * "The imprint of gas on gravitational waves from LISA intermediate-mass black hole binaries"<br>
 <i><b> Mudit Garg </b>, Andrea Derdzinski, Lorenz Zwick, Pedro R. Capelo, Lucio Mayer<br></i>
-2022, MNRAS, 517, 1339 <a href = "https://ui.adsabs.harvard.edu/abs/2022arXiv220605292G/abstract"  target="_blank"> [ADS] </a>
+2022, MNRAS <a href = "https://ui.adsabs.harvard.edu/abs/2022arXiv220605292G/abstract"  target="_blank"> [ADS] </a>
 
 * "Dirty waveforms: multiband harmonic content of gas-embedded gravitational wave sources"<br>
 <i>Lorenz Zwick, Andrea Derdzinski, <b> Mudit Garg </b>, Pedro R. Capelo, Lucio Mayer<br></i>
-2022, MNRAS, 511, 6143 <a href = "https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.6143Z/abstract"  target="_blank"> [ADS] </a>
+2022, MNRAS <a href = "https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.6143Z/abstract"  target="_blank"> [ADS] </a>
 
 ## Pre-PhD
 
 * "Non-linear extension of non-metricity scalar for MOND"<br>
 <i>Fabio D'Ambrosio, <b> Mudit Garg </b>, Lavinia Heisenberg<sup>&dagger;</sup><br></i>
-2020, Physics Letters B, 811, 135970 <a href = "https://ui.adsabs.harvard.edu/abs/2020PhLB..81135970D/abstract"  target="_blank"> [ADS] </a>
+2020, Physics Letters B <a href = "https://ui.adsabs.harvard.edu/abs/2020PhLB..81135970D/abstract"  target="_blank"> [ADS] </a>
 
 * "ADM formulation and Hamiltonian analysis of Coincident General Relativity"<br>
 <i>Fabio D'Ambrosio, <b> Mudit Garg </b>, Lavinia Heisenberg, Stefan Zentarra<sup>&dagger;</sup><br></i>
