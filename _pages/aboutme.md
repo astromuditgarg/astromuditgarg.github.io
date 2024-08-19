@@ -7,7 +7,7 @@ redirect_from:
   - /aboutme
 ---
 
-I was born and brought up in India. In my free time, I play badminton, quizzes, board games, or video games, or go for a swim, run, or work out. I like cooking and trying various cuisines. I enjoy multiple hikes around Switzerland during summer and sledging in winter.
+I was born and brought up in India. In my free time, I play badminton, quizzes, board games, or video games, or go for a swim, run, or work out. I like cooking and trying various cuisines. I enjoy hikes, sledging, skiing, and activities around Switzerland.
 
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Outdoor.png" title="GWD" width="1000">
 
