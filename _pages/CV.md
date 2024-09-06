@@ -17,11 +17,11 @@ redirect_from:
 <h2>Talks/Presentation</h2>
 <ul>
 <li> <div class="container"> <span class="left">UMD CTC Theory Seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>College Park, US</li>
-<li> <div class="container"> <span class="left">Astro Coffee</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Princeton, US</li>
+<li> <div class="container"> <span class="left">Princeton Astro Coffee</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Princeton, US</li>
 <li> <div class="container"> <span class="left">Columbia Astro Seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>NYC, US</li>
 <li> <div class="container"> <span class="left">MIT Monday Afternoon Talks</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Boston, US</li>
 <li> <div class="container"> <span class="left">Swiss Physical Society meeting</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Zurich, Switzerland</li>
-<li> <div class="container"> <span class="left">New ideas on the origin of black hole mergers (Invited)</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Copenhagen, Denamrk</li>
+<li> <div class="container"> <span class="left">New ideas on the origin of black hole mergers (Invited)</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Copenhagen, Denmark</li>
 <li> <div class="container"> <span class="left">LISA Symposium Poster</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Dublin, Ireland</li>
 <li> <div class="container"> <span class="left">GRAPPA seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Amsterdam, Netherlands</li>
 <li> <div class="container"> <span class="left">LISA community call</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Online</li>
