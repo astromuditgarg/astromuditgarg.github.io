@@ -21,7 +21,7 @@ redirect_from:
 <li> <div class="container"> <span class="left">Columbia Astro Seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>NYC</li>
 <li> <div class="container"> <span class="left">MIT Monday Afternoon Talks</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Boston</li>
 <li> <div class="container"> <span class="left">Swiss Physical Society meeting</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Zurich</li>
-<li> <div class="container"> <span class="left">New ideas on the origin of black hole mergers (Invited)</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Copenhagen, Denmark</li>
+<li> <div class="container"> <span class="left">New ideas on the origin of black hole mergers (Invited)</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Copenhagen</li>
 <li> <div class="container"> <span class="left">LISA Symposium Poster</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Dublin</li>
 <li> <div class="container"> <span class="left">GRAPPA seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Amsterdam</li>
 <li> <div class="container"> <span class="left">LISA community call</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Online</li>
