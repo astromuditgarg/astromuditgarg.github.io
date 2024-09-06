@@ -17,6 +17,7 @@ redirect_from:
 <h2>Talks/Presentation</h2>
 <ul>
 <li> <div class="container"> <span class="left">UMD CTC Theory Seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>College Park, US</li>
+<li> <div class="container"> <span class="left">Astro Coffee</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Princeton, US</li>
 <li> <div class="container"> <span class="left">Columbia Astro Seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>NYC, US</li>
 <li> <div class="container"> <span class="left">MIT Monday Afternoon Talks</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Boston, US</li>
 <li> <div class="container"> <span class="left">Swiss Physical Society meeting</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Zurich, Switzerland</li>
