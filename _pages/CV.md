@@ -16,6 +16,7 @@ redirect_from:
 
 <h2>Talks/Presentation</h2>
 <ul>
+<li> <div class="container"> <span class="left">CIERA theory group meeting</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Evanston</li>
 <li> <div class="container"> <span class="left">UMD CTC Theory Seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>College Park</li>
 <li> <div class="container"> <span class="left">Princeton Astro Coffee</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Princeton</li>
 <li> <div class="container"> <span class="left">Columbia Astro Seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>NYC</li>
@@ -38,7 +39,8 @@ redirect_from:
 
 <h2>Research visits</h2>
 <ul>
-<li> <div class="container"> <span class="left">Center for Computational Astrophysics</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>NYC</li>
+<li> <div class="container"> <span class="left">CIERA, Northwestern University</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Evanston</li>
+<li> <div class="container"> <span class="left">Center for Computational Astrophysics (CCA), Flatiron Institute</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>NYC</li>
 <li> <div class="container"> <span class="left">Institute of Gravitational Wave Astronomy</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Birmingham</li>
 <li> <div class="container"> <span class="left">Institute of Cosmology and Gravitation</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Portsmouth</li>
 <li> <div class="container"> <span class="left">Max Planck institute for Gravitational Physics (Albert Einstein Institute)</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Potsdam</li>
