@@ -6,9 +6,7 @@ author_profile: true
 redirect_from: 
   - /publications
 ---
-* "Gravitational Wave Astronomy With TianQin"<br>
-<i>En-Kun Li, [19 authors], <b> Mudit Garg </b>, [31 authors]<br></i>
-2024<a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240919665L/abstract"  target="_blank"> [ADS] </a>
+## First-author
 
 * "Accretion mediated spin-eccentricity correlations in LISA massive black hole binaries"<br>
 <i><b> Mudit Garg </b>, Christopher Tiede, Daniel J. D'Orazio<br></i>
@@ -25,6 +23,12 @@ redirect_from:
 * "The imprint of gas on gravitational waves from LISA intermediate-mass black hole binaries"<br>
 <i><b> Mudit Garg </b>, Andrea Derdzinski, Lorenz Zwick, Pedro R. Capelo, Lucio Mayer<br></i>
 2022, MNRAS <a href = "https://ui.adsabs.harvard.edu/abs/2022arXiv220605292G/abstract"  target="_blank"> [ADS] </a>
+
+## Co-author
+
+* "Gravitational Wave Astronomy With TianQin"<br>
+<i>En-Kun Li, [19 authors], <b> Mudit Garg </b>, [31 authors]<br></i>
+2024<a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240919665L/abstract"  target="_blank"> [ADS] </a>
 
 * "Dirty waveforms: multiband harmonic content of gas-embedded gravitational wave sources"<br>
 <i>Lorenz Zwick, Andrea Derdzinski, <b> Mudit Garg </b>, Pedro R. Capelo, Lucio Mayer<br></i>
