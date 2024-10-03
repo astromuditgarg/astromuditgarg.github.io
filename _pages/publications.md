@@ -7,7 +7,7 @@ redirect_from:
   - /publications
 ---
 * "Gravitational Wave Astronomy With TianQin"<br>
-<i><b> Li et al. including <b> Mudit Garg </b><br></i>
+<i>Li et al. including <b> Mudit Garg </b><br></i>
 2024, Submitted to MNRAS <a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240919665L/abstract"  target="_blank"> [ADS] </a>
 
 * "Accretion mediated spin-eccentricity correlations in LISA massive black hole binaries"<br>
