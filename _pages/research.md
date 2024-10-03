@@ -16,7 +16,7 @@ redirect_from:
 <p align="justify">I am mainly interested in using the detection of GWs to learn about the source properties together with their astrophysical environment. I mostly focus on coalescing massive black hole binaries (MBHBs) embedded in a gaseous accretion disc that may result form galaxy mergers. To this aim, I use analytical and numerical techniques to perform source as well as waveform modeling. My recent projects are:</p>
 
 <ul>
-<li>LISA-observable Spin-eccentricity correlations could differentiate prograde and retrograde accretion <a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240504411G/abstract"  target="_blank"> [ADS] </a><br>
+<li>LISA-observable spin-eccentricity correlations could differentiate prograde and retrograde accretion <a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240504411G/abstract"  target="_blank"> [ADS] </a><br>
 
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper5.png" title="Paper5" width="600"></li>
 
