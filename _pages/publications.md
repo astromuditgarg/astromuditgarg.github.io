@@ -8,6 +8,10 @@ redirect_from:
 ---
 ## First-author
 
+* "Systematics in tests of general relativity using LISA massive black hole binaries"<br>
+<i><b> Mudit Garg </b>, Laura Sberna, Lorenzo Speri, Francisco Duque, Jonathan Gair<br></i>
+2024, Submitted to MNRAS <a href = "https://arxiv.org/abs/2410.02910"  target="_blank"> [arXiv] </a>
+
 * "Accretion mediated spin-eccentricity correlations in LISA massive black hole binaries"<br>
 <i><b> Mudit Garg </b>, Christopher Tiede, Daniel J. D'Orazio<br></i>
 2024, Submitted to MNRAS <a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240504411G/abstract"  target="_blank"> [ADS] </a>
