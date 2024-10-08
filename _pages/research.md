@@ -33,7 +33,7 @@ redirect_from:
 
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper2.png" title="Paper2" width="600"></li>
 
-<li> Realistic thin gas dis induced cumulative dephasing in GWs from LISA intermediate-mass BHBs<a href = "https://ui.adsabs.harvard.edu/abs/2022arXiv220605292G/abstract"  target="_blank"> [ADS] </a><br>
+<li> Realistic thin gas disc induced cumulative dephasing in GWs from LISA intermediate-mass BHBs<a href = "https://ui.adsabs.harvard.edu/abs/2022arXiv220605292G/abstract"  target="_blank"> [ADS] </a><br>
 
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper1.png" title="Paper1" width="600"> </li>
 
