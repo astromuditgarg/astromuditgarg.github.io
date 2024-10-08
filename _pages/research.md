@@ -19,7 +19,7 @@ redirect_from:
   
 <li>How ignoring gas-eccentricity for LISA MBHBs falsley violate GR<a href = "https://arxiv.org/abs/2410.02910"  target="_blank"> [arXiv] </a><br>
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper5.png" title="Paper5" width="600"></li>
+<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper5.pdf" title="Paper5" width="600"></li>
   
 <li>LISA-observable spin-eccentricity correlations could differentiate prograde and retrograde accretion <a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240504411G/abstract"  target="_blank"> [ADS] </a><br>
 
