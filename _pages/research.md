@@ -17,7 +17,7 @@ redirect_from:
 
 <ul>
   
-<li>How ignoring gas-eccentricity for LISA MBHBs falsley violate GR<a href = "https://arxiv.org/abs/2410.02910"  target="_blank"> [arXiv] </a><br>
+<li>How ignoring gas-eccentricity for LISA MBHBs falsley violate GR<a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv241002910G/abstract"  target="_blank"> [ADS] </a><br>
 
 <img class="img-responsive" src="https://muditgarg96.github.io/images/Paper5.pdf" title="Paper5" width="600"></li>
   
