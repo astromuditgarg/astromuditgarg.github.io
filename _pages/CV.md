@@ -18,6 +18,8 @@ redirect_from:
 <ul>
 <li> <div class="container"> <span class="left">CIERA theory group meeting</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Evanston</li>
 <li> <div class="container"> <span class="left">UMD CTC Theory Seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>College Park</li>
+<li> <div class="container"> <span class="left">NASA Goddard Branch Lunch</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Greenbelt</li>
+<li> <div class="container"> <span class="left">JHU Astro Seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Baltimore</li>
 <li> <div class="container"> <span class="left">Princeton Astro Coffee</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Princeton</li>
 <li> <div class="container"> <span class="left">Columbia Astro Seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>NYC</li>
 <li> <div class="container"> <span class="left">MIT Monday Afternoon Talks</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Boston</li>
