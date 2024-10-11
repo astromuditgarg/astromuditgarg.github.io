@@ -58,6 +58,7 @@ redirect_from:
 
 <h2>Teaching Assistance</h2>
 <ul>
+<li> <div class="container"> <span class="left">Astrobiology Proseminar</span> <span class="right">Fall 2024</span> <span class="center">&nbsp;</span> </div></li>
 <li> <div class="container"> <span class="left">Computational methods for radiative transfer</span> <span class="right">Spring 2024</span> <span class="center">&nbsp;</span> </div></li>
 <li> <div class="container"> <span class="left">Introduction to Astrophysics</span> <span class="right">Fall 2023</span> <span class="center">&nbsp;</span> </div></li>
 <li> <div class="container"> <span class="left">Introduction to Astronomy</span> <span class="right">Spring 2023</span> <span class="center">&nbsp;</span> </div></li>
