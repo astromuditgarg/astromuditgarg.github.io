@@ -32,7 +32,7 @@ redirect_from:
 
 * "Gravitational Wave Astronomy With TianQin"<br>
 <i>En-Kun Li, [19 authors], <b> Mudit Garg </b>, [31 authors]<br></i>
-2024<a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240919665L/abstract"  target="_blank"> [ADS] </a>
+2024, arXiv, <a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240919665L/abstract"  target="_blank"> [ADS] </a>
 
 * "Dirty waveforms: multiband harmonic content of gas-embedded gravitational wave sources"<br>
 <i>Lorenz Zwick, Andrea Derdzinski, <b> Mudit Garg </b>, Pedro R. Capelo, Lucio Mayer<br></i>
