@@ -8,6 +8,8 @@ redirect_from:
 ---
 ## First-author
 
+### Pre-print
+
 * "Gas-induced perturbations on the gravitational wave in-spiral of live post-Newtonian LISA massive black hole binaries"<br>
 <i><b> Mudit Garg </b>, Alessia Franchini, Alessandro Lupi, Matteo Bonetti, Lucio Mayer<br></i>
 2024, Submitted to ApJL <a href = "https://arxiv.org/abs/2410.17305"  target="_blank"> [arXiv] </a>
@@ -15,6 +17,8 @@ redirect_from:
 * "Systematics in tests of general relativity using LISA massive black hole binaries"<br>
 <i><b> Mudit Garg </b>, Laura Sberna, Lorenzo Speri, Francisco Duque, Jonathan Gair<br></i>
 2024, Submitted to MNRAS <a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv241002910G/abstract"  target="_blank"> [ADS] </a>
+
+### Published
 
 * "Accretion mediated spin-eccentricity correlations in LISA massive black hole binaries"<br>
 <i><b> Mudit Garg </b>, Christopher Tiede, Daniel J. D'Orazio<br></i>
