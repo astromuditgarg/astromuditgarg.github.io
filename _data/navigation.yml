@@ -9,6 +9,9 @@ main:
 
   - title: "Brief CV"
     url: /CV/
+
+  - title: "Outreach"
+    url: /outreach/
     
   - title: "About me"
     url: /aboutme/
