@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 <iframe width="192" height="108"
-src="https://www.youtube.com/watch?v=bPxYE_EljBw">
+src="https://www.youtube.com/embed/bPxYE_EljBw">
 </iframe>
