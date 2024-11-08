@@ -7,6 +7,6 @@ redirect_from:
   - /outreach
 ---
 
-<iframe width="420" height="315"
+<iframe width="192" height="108"
 src="https://www.youtube.com/watch?v=bPxYE_EljBw">
 </iframe>
