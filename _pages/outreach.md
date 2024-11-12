@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Outreach"
-permalink: /outreach/
+title: "Videos"
+permalink: /videos/
 author_profile: true
 redirect_from:
-  - /outreach
+  - /videos
 ---
 
 Short outreach interview at the LISA AstroWG meeting, November 2024
