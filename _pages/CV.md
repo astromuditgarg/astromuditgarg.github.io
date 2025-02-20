@@ -16,6 +16,9 @@ redirect_from:
 
 <h2>Talks/Presentation</h2>
 <ul>
+
+<li> <div class="container"> <span class="left">Frontiers of Astrophysical Black Holes </span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Sexten</li>
+<li> <div class="container"> <span class="left">LISA community call</span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Online</li>
 <li> <div class="container"> <span class="left">LISA AstroWG meeting</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Garching</li>
 <li> <div class="container"> <span class="left">CIERA theory group meeting</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Evanston</li>
 <li> <div class="container"> <span class="left">UMD CTC Theory Seminar</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>College Park</li>
