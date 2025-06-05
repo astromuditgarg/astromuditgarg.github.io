@@ -49,7 +49,7 @@ redirect_from:
 
 <h2>Research visits</h2>
 <ul>
-<li> <div class="container"> <span class="left">Niels Bohr International Academy, University of Copenhagen</span> <span class="right"><i>2025</i>i></span> <span class="center">&nbsp;</span> </div>Copenhagen</li>
+<li> <div class="container"> <span class="left">Niels Bohr International Academy, University of Copenhagen</span> <span class="right"><i>2025</i></span> <span class="center">&nbsp;</span> </div>Copenhagen</li>
 <li> <div class="container"> <span class="left">CIERA, Northwestern University</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Evanston</li>
 <li> <div class="container"> <span class="left">Center for Computational Astrophysics (CCA), Flatiron Institute</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>NYC</li>
 <li> <div class="container"> <span class="left">Institute of Gravitational Wave Astronomy</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Birmingham</li>
