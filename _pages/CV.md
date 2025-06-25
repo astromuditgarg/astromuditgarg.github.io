@@ -18,7 +18,7 @@ redirect_from:
 <ul>
 
 <li> <div class="container"> <span class="left"> MIAPbP prgram: Enabling future GW astrophysics in mHz regime </span> <span class="right"><i>2025</i></span> <span class="center">&nbsp;</span> </div>Garching</li>
-<li> <div class="container"> <span class="left"> Astrophysical Dynamics: from planets, to stars, to black hole </span> <span class="right"><i>2025</i></span> <span class="center">&nbsp;</span> </div>Copenhagen</li>
+<li> <div class="container"> <span class="left"> Astrophysical Dynamics: from planets, to stars, to black hole </span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Copenhagen</li>
 <li> <div class="container"> <span class="left"> Dynamix </span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Cambridge (Invited)</li>
 <li> <div class="container"> <span class="left">Gravitational Wave Probes of Black Hole Environments</span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Trieste (Invited)</li>
 <li> <div class="container"> <span class="left">Frontiers of Astrophysical Black Holes </span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Sexten (Invited)</li>
@@ -49,7 +49,7 @@ redirect_from:
 
 <h2>Research visits</h2>
 <ul>
-<li> <div class="container"> <span class="left">Niels Bohr International Academy, University of Copenhagen</span> <span class="right"><i>2025</i></span> <span class="center">&nbsp;</span> </div>Copenhagen</li>
+<li> <div class="container"> <span class="left">Niels Bohr International Academy, University of Copenhagen</span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Copenhagen</li>
 <li> <div class="container"> <span class="left">CIERA, Northwestern University</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Evanston</li>
 <li> <div class="container"> <span class="left">Center for Computational Astrophysics (CCA), Flatiron Institute</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>NYC</li>
 <li> <div class="container"> <span class="left">Institute of Gravitational Wave Astronomy</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Birmingham</li>
