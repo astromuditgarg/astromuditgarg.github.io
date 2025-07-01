@@ -11,9 +11,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Home"
 description              : &description "PhD Student"
-url                      : https://muditgarg96.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://astromudit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "muditgarg96.github.io"
+repository               : "astromudit.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,7 +86,7 @@ author:
   employer         : "https://www.astro.uzh.ch/en/"
   email            : "mudit.garg@uzh.ch"
   ads              : "https://ui.adsabs.harvard.edu/public-libraries/w3jOHwGlTJ2GrmGIyil-TQ"
-  cv               : "https://muditgarg96.github.io/files/MuditGarg_CV_Compact.pdf"
+  cv               : "https://astromudit.github.io/files/MuditGarg_CV_Compact.pdf"
   github           : 
   linkedin         :
   orcid            : 
