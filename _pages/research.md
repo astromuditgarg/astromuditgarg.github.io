@@ -7,7 +7,7 @@ redirect_from:
   - /research
 ---
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/GW_dephased.png" title="GWD" width="900" height="300">
+<img class="img-responsive" src="https://astromudit.github.io/images/GW_dephased.png" title="GWD" width="900" height="300">
 
 <i>In the past, we could only see the Universe, but now we can also hear it.</i>-Anonymous
 
@@ -19,26 +19,26 @@ redirect_from:
   
 <li>Measuring gas torques on LISA MBHBs a few years before merger<a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv241017305G/abstract"  target="_blank"> [ADS] </a><br>
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper6.jpg" title="Paper6" width="600"></li>
+<img class="img-responsive" src="https://astromudit.github.io/images/Paper6.jpg" title="Paper6" width="600"></li>
 
 <li>How ignoring gas-eccentricity for LISA MBHBs falsely violate GR?<a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv241002910G/abstract"  target="_blank"> [ADS] </a><br>
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper5.png" title="Paper5" width="600"></li>
+<img class="img-responsive" src="https://astromudit.github.io/images/Paper5.png" title="Paper5" width="600"></li>
   
 <li>LISA-observable spin-eccentricity correlations could differentiate prograde and retrograde accretion <a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240504411G/abstract"  target="_blank"> [ADS] </a><br>
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper4.png" title="Paper4" width="600"></li>
+<img class="img-responsive" src="https://astromudit.github.io/images/Paper4.png" title="Paper4" width="600"></li>
 
 <li> Concurrent measurement of eccentricity and gas perturbation from GWs of MBHBs <a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240214058G/abstract"  target="_blank"> [ADS] </a> <br>
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper3.png" title="Paper3" width="600"></li>
+<img class="img-responsive" src="https://astromudit.github.io/images/Paper3.png" title="Paper3" width="600"></li>
 
 <li> The minimum measurable eccentricity from GWs of vacuum MBHBs <a href = "https://ui.adsabs.harvard.edu/abs/2023arXiv230713367G/abstract"  target="_blank"> [ADS] </a><br>
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper2.png" title="Paper2" width="600"></li>
+<img class="img-responsive" src="https://astromudit.github.io/images/Paper2.png" title="Paper2" width="600"></li>
 
 <li> Realistic thin gas disc induced cumulative dephasing in GWs from LISA intermediate-mass BHBs<a href = "https://ui.adsabs.harvard.edu/abs/2022arXiv220605292G/abstract"  target="_blank"> [ADS] </a><br>
 
-<img class="img-responsive" src="https://muditgarg96.github.io/images/Paper1.png" title="Paper1" width="600"> </li>
+<img class="img-responsive" src="https://astromudit.github.io/images/Paper1.png" title="Paper1" width="600"> </li>
 
 </ol>
