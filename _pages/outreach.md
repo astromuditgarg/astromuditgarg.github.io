@@ -5,7 +5,7 @@ permalink: /videos/
 author_profile: true
 redirect_from:
   - /videos
----https://youtu.be/vNw-gTdc0ts
+---
 
 Simulation of massive black hole binary in gas
 <iframe width="192" height="108"
