@@ -17,7 +17,7 @@ redirect_from:
 
 <ol reversed>
   
-<li>Measuring gas torques on LISA MBHBs a few years before merger<a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv241017305G/abstract"  target="_blank"> [ADS] </a><br>
+<li>Measuring gas torques on LISA MBHBs a few years before merger<a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv241017305G/abstract"  target="_blank"> [ADS] </a><br><br>
 
 <img class="img-responsive" src="https://astromuditgarg.github.io/images/Paper6.jpg" title="Paper6" width="600"></li>
 
