@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## First-author
 
-### Pre-print
+### In press
 
 * "Gas-induced perturbations on the gravitational wave in-spiral of live post-Newtonian LISA massive black hole binaries"<br>
 <i><b> Mudit Garg </b>, Alessia Franchini, Alessandro Lupi, Matteo Bonetti, Lucio Mayer<br></i>
