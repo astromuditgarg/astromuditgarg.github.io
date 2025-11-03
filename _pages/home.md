@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<img class="img-responsive" src="https://astromuditgarg.github.io/images/Profile2.jpg" title="Basel" width="750">
+<img class="img-responsive" src="https://astromuditgarg.github.io/images/Defence.jpg" title="Defence" width="750">
 
 Welcome to my personal website :)
 
