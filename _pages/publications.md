@@ -12,7 +12,7 @@ redirect_from:
 
 * "Gas-induced perturbations on the gravitational wave in-spiral of live post-Newtonian LISA massive black hole binaries"<br>
 <i><b> Mudit Garg </b>, Alessia Franchini, Alessandro Lupi, Matteo Bonetti, Lucio Mayer<br></i>
-2025, ApJ <a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv241017305G/abstract"  target="_blank"> [ADS] </a>
+2025, ApJ <a href = "https://ui.adsabs.harvard.edu/abs/2025ApJ...993..145G/abstract"  target="_blank"> [ADS] </a>
 
 * "Systematics in tests of general relativity using LISA massive black hole binaries"<br>
 <i><b> Mudit Garg </b>, Laura Sberna, Lorenzo Speri, Francisco Duque, Jonathan Gair<br></i>
