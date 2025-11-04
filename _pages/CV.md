@@ -9,7 +9,7 @@ redirect_from:
 
 <h2>Experience</h2>
 <ul>
-<li> <div class="container"> <span class="left">Astrophysics Postdoc Fellow</span> <span class="right"><i>2025</i></span> <span class="center">&nbsp;</span> </div>New York University</li>
+<li> <div class="container"> <span class="left">Astrophysics Postdoc Fellow</span> <span class="right"><i>2025-</i></span> <span class="center">&nbsp;</span> </div>New York University</li>
 </ul>
 
 <h2>Education</h2>
