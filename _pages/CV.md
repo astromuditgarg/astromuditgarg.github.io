@@ -7,9 +7,14 @@ redirect_from:
   - /CV
 ---
 
+<h2>Experience</h2>
+<ul>
+<li> <div class="container"> <span class="left">Astrophysics Postdoc Fellow</span> <span class="right"><i>2025</i></span> <span class="center">&nbsp;</span> </div>New York University</li>
+</ul>
+
 <h2>Education</h2>
 <ul>
-<li> <div class="container"> <span class="left">PhD in Gravitational Wave Astrophysics</span> <span class="right"><i>2025</i></span> <span class="center">&nbsp;</span> </div>University of Zurich</li>
+<li> <div class="container"> <span class="left">PhD in Gravitational Wave Astrophysics</span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>University of Zurich</li>
 <li> <div class="container"> <span class="left">MSc in Physics with distinction</span> <span class="right">2020</span> <span class="center">&nbsp;</span> </div>ETH Zurich</li> 
 <li> <div class="container"> <span class="left">BTech in Engineering Physics</span> <span class="right">2018</span> <span class="center">&nbsp;</span> </div>IIT Delhi</li> 
 </ul>
