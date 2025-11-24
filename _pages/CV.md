@@ -22,7 +22,6 @@ redirect_from:
 <h2>Talks/Presentation</h2>
 <ul>
 
-<li> <div class="container"> <span class="left"> MIAPbP prgram: Enabling future GW astrophysics in mHz regime </span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Garching</li>
 <li> <div class="container"> <span class="left"> Astrophysical Dynamics: from planets, to stars, to black hole </span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Copenhagen</li>
 <li> <div class="container"> <span class="left"> Dynamix </span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Cambridge (Invited)</li>
 <li> <div class="container"> <span class="left">Gravitational Wave Probes of Black Hole Environments</span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Trieste (Invited)</li>
@@ -64,6 +63,7 @@ redirect_from:
 
 <h2>Schools/Workshops</h2>
 <ul>
+<li> <div class="container"> <span class="left"> MIAPbP prgram: Enabling future GW astrophysics in mHz regime </span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Garching</li>
 <li> <div class="container"> <span class="left">Fundamental Physics Meets Waveforms With LISA</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Potsdam</li>
 <li> <div class="container"> <span class="left">Gravitational Waves</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Corfu</li>
 <li> <div class="container"> <span class="left">LISA data analysis: from classical methods to machine learning</span> <span class="right">2022</span> <span class="center">&nbsp;</span> </div>Toulouse</li>
