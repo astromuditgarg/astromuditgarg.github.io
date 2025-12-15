@@ -36,9 +36,13 @@ redirect_from:
 
 ## Co-author
 
+* "The LISA Astrophysics "Disc-IMRI" Code Comparison Project: Intermediate-Mass-Ratio Binaries in AGN-Like Discs"<br>
+<i>Derdzinski, [12 authors], <b> Mudit Garg </b>, [5 authors]<br></i>
+2025, arXiv <a href = "https://ui.adsabs.harvard.edu/abs/2025arXiv251210893D/abstract"  target="_blank"> [ADS] </a>
+
 * "Gravitational Wave Astronomy With TianQin"<br>
 <i>En-Kun Li, [19 authors], <b> Mudit Garg </b>, [31 authors]<br></i>
-2024, ROPP <a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv240919665L/abstract"  target="_blank"> [ADS] </a>
+2025, ROPP <a href = "https://ui.adsabs.harvard.edu/abs/2025RPPh...88e6901L/abstract"  target="_blank"> [ADS] </a>
 
 * "Dirty waveforms: multiband harmonic content of gas-embedded gravitational wave sources"<br>
 <i>Lorenz Zwick, Andrea Derdzinski, <b> Mudit Garg </b>, Pedro R. Capelo, Lucio Mayer<br></i>
