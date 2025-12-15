@@ -37,7 +37,7 @@ redirect_from:
 ## Co-author
 
 * "The LISA Astrophysics "Disc-IMRI" Code Comparison Project: Intermediate-Mass-Ratio Binaries in AGN-Like Discs"<br>
-<i>Derdzinski, [12 authors], <b> Mudit Garg </b>, [5 authors]<br></i>
+<i>Andrea Derdzinski, [12 authors], <b> Mudit Garg </b>, [5 authors]<br></i>
 2025, arXiv <a href = "https://ui.adsabs.harvard.edu/abs/2025arXiv251210893D/abstract"  target="_blank"> [ADS] </a>
 
 * "Gravitational Wave Astronomy With TianQin"<br>
