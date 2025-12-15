@@ -21,7 +21,7 @@ redirect_from:
 
 <h2>Talks/Presentation</h2>
 <ul>
-
+<li> <div class="container"> <span class="left"> TAPIR Seminar</span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Pasadena</li>
 <li> <div class="container"> <span class="left"> Astrophysical Dynamics: from planets, to stars, to black hole </span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Copenhagen</li>
 <li> <div class="container"> <span class="left"> Dynamix </span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Cambridge (Invited)</li>
 <li> <div class="container"> <span class="left">Gravitational Wave Probes of Black Hole Environments</span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Trieste (Invited)</li>
