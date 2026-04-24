@@ -8,6 +8,12 @@ redirect_from:
 ---
 ## First-author
 
+### Submitted
+
+* "Chaotic migration of LISA Extreme Mass Ratio Inspirals in a turbulent accretion disk: effect on waveform de-phasing"<br>
+<i><b> Mudit Garg </b>, Lucio Mayer, Yinhao Wu, Yacine Ali-Ha\"imoud, Douglas N.C. Lin<br></i>
+2026, submitted to ApJL <a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv260420971G/abstract"  target="_blank"> [ADS] </a>
+
 ### Published
 
 * "Gas-induced perturbations on the gravitational wave in-spiral of live post-Newtonian LISA massive black hole binaries"<br>
