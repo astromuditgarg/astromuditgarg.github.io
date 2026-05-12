@@ -9,7 +9,7 @@ redirect_from:
 
 <h2>Experience</h2>
 <ul>
-<li> <div class="container"> <span class="left">Astrophysics Postdoc Fellow</span> <span class="right"><i>2025-</i></span> <span class="center">&nbsp;</span> </div>New York University</li>
+<li> <div class="container"> <span class="left">Astrophysics Postdoc Fellow</span> <span class="right"><i>2027</i></span> <span class="center">&nbsp;</span> </div>New York University</li>
 </ul>
 
 <h2>Education</h2>
@@ -21,6 +21,8 @@ redirect_from:
 
 <h2>Talks/Presentation</h2>
 <ul>
+<li> <div class="container"> <span class="left">The LISA Symposium</span> <span class="right"><i>2026</i>i></span> <span class="center">&nbsp;</span> </div>College Park</li>
+<li> <div class="container"> <span class="left">The Eastern Gravity Meeting</span> <span class="right"><i>2026</i>i></span> <span class="center">&nbsp;</span> </div>Ithaca</li>
 <li> <div class="container"> <span class="left"> TAPIR Seminar</span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Pasadena</li>
 <li> <div class="container"> <span class="left"> Astrophysical Dynamics: from planets, to stars, to black hole </span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Copenhagen</li>
 <li> <div class="container"> <span class="left"> Dynamix </span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Cambridge (Invited)</li>
