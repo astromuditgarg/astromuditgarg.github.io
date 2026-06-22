@@ -12,7 +12,7 @@ redirect_from:
 
 * "Chaotic migration of LISA Extreme Mass Ratio Inspirals in a turbulent accretion disk: effect on waveform de-phasing"<br>
 <i><b> Mudit Garg </b>, Lucio Mayer, Yinhao Wu, Yacine Ali-Ha\"imoud, Douglas N.C. Lin<br></i>
-2026, submitted to ApJL <a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv260420971G/abstract"  target="_blank"> [ADS] </a>
+2026, under review at ApJL <a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv260420971G/abstract"  target="_blank"> [ADS] </a>
 
 ### Published
 
