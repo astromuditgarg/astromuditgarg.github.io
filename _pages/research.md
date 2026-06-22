@@ -16,6 +16,10 @@ redirect_from:
 <p align="justify">I am mainly interested in using the observation of GWs to learn about the source properties together with their astrophysical environment. I mostly focus on coalescing massive black hole binaries (MBHBs), formed via galaxy mergers, embedded in a gaseous accretion disc. To this aim, I use analytical and numerical techniques to perform source as well as waveform modeling. My recent projects are:</p>
 
 <ol reversed>
+
+<li>Measuring gas-induced dephasings on LISA EMRIs embedded in a turbulent disk<a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv260420971G/abstract"  target="_blank"> [ADS] </a><br>
+
+<!-- <img class="img-responsive" src="https://astromuditgarg.github.io/images/Paper6.jpg" title="Paper6" width="600" style="padding-top: 10px;"></li> -->
   
 <li>Measuring gas torques and gas-induced dephasings on LISA MBHBs a few years before merger<a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv241017305G/abstract"  target="_blank"> [ADS] </a><br>
 
