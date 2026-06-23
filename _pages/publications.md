@@ -10,7 +10,7 @@ redirect_from:
 
 ### Submitted
 
-* Gas-induced perturbations on the gravitational wave in-spiral of live post-Newtonian LISA massive black hole binaries: 0.1 disk aspect ratio
+* "Gas-induced perturbations on the gravitational wave in-spiral of live post-Newtonian LISA massive black hole binaries: 0.1 disk aspect ratio"<br>
 <i><b> Mudit Garg </b>, Alessia Franchini, Alessandro Lupi<br></i>
 2026, Subnitted to ApJ <a href = "https://arxiv.org/abs/2606.20787"  target="_blank"> [ArXiv] </a>
 
