@@ -12,7 +12,7 @@ redirect_from:
 
 * "Gas-induced perturbations on the gravitational wave in-spiral of live post-Newtonian LISA massive black hole binaries: 0.1 disk aspect ratio"<br>
 <i><b> Mudit Garg </b>, Alessia Franchini, Alessandro Lupi<br></i>
-2026, Subnitted to ApJ <a href = "https://arxiv.org/abs/2606.20787"  target="_blank"> [ArXiv] </a>
+2026, Subnitted to ApJ <a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv260620787G/abstract"  target="_blank"> [ADS] </a>
 
 * "Chaotic migration of LISA Extreme Mass Ratio Inspirals in a turbulent accretion disk: effect on waveform de-phasing"<br>
 <i><b> Mudit Garg </b>, Lucio Mayer, Yinhao Wu, Yacine Ali-Ha\"imoud, Douglas N.C. Lin<br></i>
