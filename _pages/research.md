@@ -19,11 +19,11 @@ redirect_from:
 
 <li>Measuring gas torques, gas-induced dephasings, and accretion variabilities for near-coalescence LISA MBHBs embedded in 0.1 disk<a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv260620787G/abstract"  target="_blank"> [ADS] </a><br>
 
-<img class="img-responsive" src="https://astromuditgarg.github.io/images/Paper8.jpg" title="Paper8" width="600" style="padding-top: 10px;"></li>
+<img class="img-responsive" src="https://astromuditgarg.github.io/images/Paper8.png" title="Paper8" width="600" style="padding-top: 10px;"></li>
 
 <li>Measuring gas-induced dephasings on LISA EMRIs embedded in a turbulent disk<a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv260420971G/abstract"  target="_blank"> [ADS] </a><br>
 
-<img class="img-responsive" src="https://astromuditgarg.github.io/images/Paper7.jpg" title="Paper7" width="600" style="padding-top: 10px;"></li>
+<img class="img-responsive" src="https://astromuditgarg.github.io/images/Paper7.png" title="Paper7" width="600" style="padding-top: 10px;"></li>
   
 <li>Measuring gas torques and gas-induced dephasings for near-coalescence LISA MBHBs embedded in 0.03 disk<a href = "https://ui.adsabs.harvard.edu/abs/2024arXiv241017305G/abstract"  target="_blank"> [ADS] </a><br>
 
