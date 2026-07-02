@@ -21,8 +21,9 @@ redirect_from:
 
 <h2>Talks/Presentation</h2>
 <ul>
-<li> <div class="container"> <span class="left">LISA Symposium</span> <span class="right"><i>2026</i></span> <span class="center">&nbsp;</span> </div>College Park</li>
-<li> <div class="container"> <span class="left">Eastern Gravity Meeting</span> <span class="right"><i>2026</i></span> <span class="center">&nbsp;</span> </div>Ithaca</li>
+<li> <div class="container"> <span class="left">Columbia THEA Seminar</span> <span class="right"><i>2026</i></span> <span class="center">&nbsp;</span> </div>College Park</li>
+<li> <div class="container"> <span class="left">LISA Symposium</span> <span class="right">2026</span> <span class="center">&nbsp;</span> </div>College Park</li>
+<li> <div class="container"> <span class="left">Eastern Gravity Meeting</span> <span class="right">2026</span> <span class="center">&nbsp;</span> </div>Ithaca</li>
 <li> <div class="container"> <span class="left"> TAPIR Seminar</span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Pasadena</li>
 <li> <div class="container"> <span class="left"> Astrophysical Dynamics: from planets, to stars, to black hole </span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Copenhagen</li>
 <li> <div class="container"> <span class="left"> Dynamix </span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Cambridge (Invited)</li>
@@ -65,6 +66,7 @@ redirect_from:
 
 <h2>Schools/Workshops</h2>
 <ul>
+<li> <div class="container"> <span class="left">Gravitational Wave Eccentricity</span> <span class="right"><i>2026</i></span> <span class="center">&nbsp;</span> </div>Corfu</li>
 <li> <div class="container"> <span class="left"> MIAPbP prgram: Enabling future GW astrophysics in mHz regime </span> <span class="right">2025</span> <span class="center">&nbsp;</span> </div>Garching</li>
 <li> <div class="container"> <span class="left">Fundamental Physics Meets Waveforms With LISA</span> <span class="right">2024</span> <span class="center">&nbsp;</span> </div>Potsdam</li>
 <li> <div class="container"> <span class="left">Gravitational Waves</span> <span class="right">2023</span> <span class="center">&nbsp;</span> </div>Corfu</li>
