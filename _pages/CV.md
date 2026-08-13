@@ -22,7 +22,7 @@ redirect_from:
 <h2>Talks/Presentation</h2>
 <ul>
 <li> <div class="container"> <span class="left">Columbia THEA Seminar</span> <span class="right"><i>2026</i></span> <span class="center">&nbsp;</span> </div>NYC</li>
-<li> <div class="container"> <span class="left">ISTA talk</span> <span class="right"><i>2026</i></span> <span class="center">&nbsp;</span> </div>Austria</li>
+<li> <div class="container"> <span class="left">ISTA talk</span> <span class="right"><i>2026</i></span> <span class="center">&nbsp;</span> </div>Vienna</li>
 <li> <div class="container"> <span class="left">GRAPPA Colloquium</span> <span class="right"><i>2026</i></span> <span class="center">&nbsp;</span> </div>Amsterdam</li>
 <li> <div class="container"> <span class="left">Swiss Physical Society meeting</span> <span class="right"><i>2026</i></span> <span class="center">&nbsp;</span> </div>Lausanne</li>
 <li> <div class="container"> <span class="left">LISA Symposium</span> <span class="right">2026</span> <span class="center">&nbsp;</span> </div>College Park</li>
