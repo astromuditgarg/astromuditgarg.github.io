@@ -14,11 +14,11 @@ redirect_from:
 <i><b> Mudit Garg</b>, Alessia Franchini, Alessandro Lupi<br></i>
 2026, Submitted to ApJ <a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv260620787G/abstract"  target="_blank"> [ADS] </a>
 
+### Published
+
 * "Chaotic migration of LISA Extreme Mass Ratio Inspirals in a turbulent accretion disk: effect on waveform de-phasing"<br>
 <i><b> Mudit Garg</b>, Lucio Mayer, Yinhao Wu, Yacine Ali-Ha\"imoud, Douglas N.C. Lin<br></i>
-2026, under review at ApJL <a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv260420971G/abstract"  target="_blank"> [ADS] </a>
-
-### Published
+2026, accepted by ApJL <a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv260420971G/abstract"  target="_blank"> [ADS] </a>
 
 * "Gas-induced perturbations on the gravitational wave in-spiral of live post-Newtonian LISA massive black hole binaries"<br>
 <i><b> Mudit Garg</b>, Alessia Franchini, Alessandro Lupi, Matteo Bonetti, Lucio Mayer<br></i>
