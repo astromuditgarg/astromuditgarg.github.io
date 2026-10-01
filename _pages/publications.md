@@ -10,7 +10,7 @@ redirect_from:
 
 ### Submitted
 
-* "Gas-induced perturbations on the gravitational wave in-spiral of live post-Newtonian LISA massive black hole binaries: 0.1 disk aspect ratio"<br>
+* "Gas-induced gravitational-wave dephasing and accretion periodicities of live post-Newtonian massive black hole binaries: warm disk"<br>
 <i><b> Mudit Garg</b>, Alessia Franchini, Alessandro Lupi<br></i>
 2026, Submitted to ApJ <a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv260620787G/abstract"  target="_blank"> [ADS] </a>
 
