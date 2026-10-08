@@ -21,7 +21,7 @@ redirect_from:
 
 <img class="img-responsive" src="https://astromuditgarg.github.io/images/Paper8.png" title="Paper8" width="700" style="padding-top: 10px;"></li>
 
-<li>Measuring gas-induced dephasings on LISA EMRIs embedded in a turbulent disk<a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv260420971G/abstract"  target="_blank"> [ADS] </a><br>
+<li>Turbulence can make an undetectable laminar $\dphi$ LISA-detectable (shaded)<a href = "https://ui.adsabs.harvard.edu/abs/2026ApJ..1009L...8G/abstract"  target="_blank"> [ADS] </a><br>
 
 <img class="img-responsive" src="https://astromuditgarg.github.io/images/Paper7.png" title="Paper7" width="600" style="padding-top: 10px;"></li>
   
