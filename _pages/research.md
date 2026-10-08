@@ -17,7 +17,7 @@ redirect_from:
 
 <ol reversed>
 
-<li>Measuring gas torques, gas-induced dephasings, and accretion variabilities for near-coalescence LISA MBHBs embedded in 0.1 disk<a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv260620787G/abstract"  target="_blank"> [ADS] </a><br>
+<li>Measuring gas torques, gas-induced GW phase-shift, and accretion variabilities for near-coalescence LISA MBHBs embedded in Mach 10 disk<a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv260620787G/abstract"  target="_blank"> [ADS] </a><br>
 
 <img class="img-responsive" src="https://astromuditgarg.github.io/images/Paper8.png" title="Paper8" width="700" style="padding-top: 10px;"></li>
 
