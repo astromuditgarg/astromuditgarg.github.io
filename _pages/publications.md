@@ -55,7 +55,7 @@ redirect_from:
 2025, arXiv <a href = "https://ui.adsabs.harvard.edu/abs/2025arXiv251210893D/abstract"  target="_blank"> [ADS] </a>
 
 * "Gravitational Wave Astronomy With TianQin"<br>
-<i>En-Kun Li, [19 authors], <b> Mudit Garg</b>, [31 authors]<br></i>
+<i>En-Kun Li, [19 authors], <b> Mudit Garg</b>, [32 authors]<br></i>
 2025, ROPP <a href = "https://ui.adsabs.harvard.edu/abs/2025RPPh...88e6901L/abstract"  target="_blank"> [ADS] </a>
 
 * "Dirty waveforms: multiband harmonic content of gas-embedded gravitational wave sources"<br>
