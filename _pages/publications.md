@@ -12,7 +12,7 @@ redirect_from:
 
 * "MRI Turbulence versus alpha-Viscosity in Circumbinary Disks: Implications for Gravitational-Wave Dephasing and Accretion Variability"<br>
 <i><b> Mudit Garg</b>, Yan-Fei Jiang<br></i>
-2026, Submitted to ApJ <a href = "https://arxiv.org/abs/2610.17212"  target="_blank"> [arXiv] </a>
+2026, Submitted to ApJ <a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv261017212G/abstract"  target="_blank"> [ADS] </a>
 
 * "Gas-induced gravitational-wave dephasing and accretion periodicities of live post-Newtonian massive black hole binaries: warm disk"<br>
 <i><b> Mudit Garg</b>, Alessia Franchini, Alessandro Lupi<br></i>
