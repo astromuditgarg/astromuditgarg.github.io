@@ -17,6 +17,10 @@ redirect_from:
 
 <ol reversed>
 
+<li>Assessing how MRI-turbulence differs from alpha-viscosity for gas torques and accretion variability for MBHBs<a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv261017212G/abstract"  target="_blank"> [ADS] </a><br>
+
+<img class="img-responsive" src="https://astromuditgarg.github.io/images/Paper9.png" title="Paper8" width="700" style="padding-top: 10px;"></li>
+
 <li>Measuring gas torques, gas-induced GW phase-shift, and accretion variabilities for near-coalescence LISA MBHBs embedded in Mach 10 disk<a href = "https://ui.adsabs.harvard.edu/abs/2026arXiv260620787G/abstract"  target="_blank"> [ADS] </a><br>
 
 <img class="img-responsive" src="https://astromuditgarg.github.io/images/Paper8.png" title="Paper8" width="700" style="padding-top: 10px;"></li>
