@@ -21,9 +21,9 @@ redirect_from:
 
 <h2>Talks/Presentation</h2>
 <ul>
-<li> <div class="container"> <span class="left">Columbia THEA Seminar</span> <span class="right"><i>2026</i></span> <span class="center">&nbsp;</span> </div>NYC</li>
-<li> <div class="container"> <span class="left">Harvard CfA High Energy Seminar</span> <span class="right"><i>2026</i></span> <span class="center">&nbsp;</span> </div>Boston</li>
-<li> <div class="container"> <span class="left">MIT Monday Afternoon Talks</span> <span class="right"><i>2026</i></span> <span class="center">&nbsp;</span> </div>Boston</li>
+<li> <div class="container"> <span class="left">Columbia THEA Seminar</span> <span class="right">2026</span> <span class="center">&nbsp;</span> </div>NYC</li>
+<li> <div class="container"> <span class="left">Harvard CfA High Energy Seminar</span> <span class="right">2026</span> <span class="center">&nbsp;</span> </div>Boston</li>
+<li> <div class="container"> <span class="left">MIT Monday Afternoon Talks</span> <span class="right">2026</span> <span class="center">&nbsp;</span> </div>Boston</li>
 <li> <div class="container"> <span class="left">ISTA talk</span> <span class="right">2026</span> <span class="center">&nbsp;</span> </div>Vienna</li>
 <li> <div class="container"> <span class="left">GRAPPA Colloquium</span> <span class="right">2026</span> <span class="center">&nbsp;</span> </div>Amsterdam</li>
 <li> <div class="container"> <span class="left">Gravitational Wave Eccentricity</span> <span class="right">2026</span> <span class="center">&nbsp;</span> </div>Corfu</li>
